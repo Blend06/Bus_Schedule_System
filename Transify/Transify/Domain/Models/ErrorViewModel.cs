@@ -1,4 +1,4 @@
-namespace Transify.Models
+namespace Transify.Domain.Models
 {
     public class ErrorViewModel
     {

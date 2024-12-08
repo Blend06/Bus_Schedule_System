@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using Transify.Models;
+using WebApplication1.Models;
 
-namespace Transify.Controllers
+namespace WebApplication1.Controllers
 {
     public class HomeController : Controller
     {
@@ -13,12 +13,12 @@ namespace Transify.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index() 
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Services()
         {
             return View();
         }

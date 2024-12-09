@@ -19,6 +19,10 @@ namespace Transify.Infrastructure.Persistence.Data
             public DbSet<Buses> Buses { get; set; }
 
             public DbSet<User> Users { get; set; }
+            public DbSet<BusRoutes> BusRoutes { get; set; }
+            public DbSet<BusRouteAssignments> BusRouteAssignments { get; set; }
+            public DbSet<BusSchedule> BusSchedules { get; set; }
+            public DbSet<BusReservations> BusReservations { get; set; }
             // Add DbSet properties for your entities
             // Example:
 
@@ -28,6 +32,12 @@ namespace Transify.Infrastructure.Persistence.Data
 
                 modelBuilder.ApplyConfiguration(new BusCompanyConfiguration());
                 modelBuilder.ApplyConfiguration(new BusesConfiguration());
+                modelBuilder.ApplyConfiguration(new BusRoutesConfiguration());
+                modelBuilder.ApplyConfiguration(new BusRouteAssignmentsConfiguration());
+                modelBuilder.ApplyConfiguration(new UserConfiguration());
+                modelBuilder.ApplyConfiguration(new BusScheduleConfiguration());
+                modelBuilder.ApplyConfiguration(new BusReservationsConfiguration());
+
 
                 ApplyGlobalQueryFilters(modelBuilder);
             }

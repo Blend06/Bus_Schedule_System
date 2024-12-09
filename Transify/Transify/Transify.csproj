@@ -67,6 +67,7 @@
     <Content Include="Presentation\wwwroot\lib\jquery\dist\jquery.min.js" />
     <Content Include="Presentation\wwwroot\lib\jquery\dist\jquery.min.map" />
     <Content Include="Presentation\wwwroot\lib\jquery\LICENSE.txt" />
+	  <Content Include="Infrastructure\Persistence\Data\AppDbContext.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -74,11 +75,18 @@
     <Folder Include="Application\ViewModel\" />
     <Folder Include="Application\Services\" />
     <Folder Include="Domain\Interfaces\" />
-    <Folder Include="Domain\Models\Entities\" />
-    <Folder Include="Domain\Models\Enums\" />
     <Folder Include="Domain\Models\Utilities\" />
     <Folder Include="Infrastructure\ExternalServices\" />
     <Folder Include="Infrastructure\Persistence\Repository\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
 </Project>

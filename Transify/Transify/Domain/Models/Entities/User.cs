@@ -65,5 +65,6 @@ namespace Transify.Domain.Models.Entities
         /// Gets or sets a value indicating whether the user is marked as deleted.
         /// </summary>
         public bool IsDeleted { get; set; }
+        public object TaxiReservations { get; internal set; }
     }
 }

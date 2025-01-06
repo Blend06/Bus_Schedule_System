@@ -4,6 +4,10 @@ using Transify.Domain.Models.Enums;
 
 namespace Transify.Domain.Models.Entities
 {
+
+    /// <summary>
+    /// Represents a reservation for a taxi.
+    /// </summary>
     public class TaxiReservations
     {
         /// <summary>
@@ -29,6 +33,7 @@ namespace Transify.Domain.Models.Entities
         /// Gets or sets the user ID who made the reservation.
         /// </summary>
         [Required]
+        [ForeignKey("User")]
         public int UserId { get; set; } // Foreign key to User
 
         /// <summary>

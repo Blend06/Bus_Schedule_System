@@ -52,6 +52,9 @@ namespace Transify.Infrastructure.Persistence.Configurations
             builder.Property(tb => tb.PassengerCount)
                 .IsRequired();
 
+            builder.Property(tb => tb.DriverId)
+                .IsRequired(false);
+
             builder.Property(tb => tb.TaxiId)
                 .IsRequired(false);
 
@@ -70,10 +73,32 @@ namespace Transify.Infrastructure.Persistence.Configurations
 
         private void ConfigureRelationships(EntityTypeBuilder<TaxiBookings> builder)
         {
-            builder.HasMany(tb => tb.Notifications)
-                .WithOne(n => n.TaxiBooking)
-                .HasForeignKey(n => n.BookingId)
-                .IsRequired(false);
+            builder.HasOne(tb => tb.TaxiCompany)
+                .WithMany(tc => tc.TaxiBookings)
+                .HasForeignKey(tb => tb.TaxiCompanyId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasOne(tb => tb.Taxi)
+                .WithMany(t => t.TaxiBookings)
+                .HasForeignKey(tb => tb.TaxiId)
+                .OnDelete(DeleteBehavior.SetNull);
+
+            builder.HasOne(tb => tb.User)
+                .WithMany(u => u.TaxiBookings)
+                .HasForeignKey(tb => tb.UserId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+
+            builder.HasOne(tb => tb.User)
+                .WithMany(u => u.TaxiBookings)
+                .HasForeignKey(tb => tb.UserId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasOne(tb => tb.TaxiCompany)
+                .WithMany(tc => tc.TaxiBookings)
+                .HasForeignKey(tb => tb.TaxiCompanyId)
+                .OnDelete(DeleteBehavior.Restrict)
+                .IsRequired();
         }
     }
 }

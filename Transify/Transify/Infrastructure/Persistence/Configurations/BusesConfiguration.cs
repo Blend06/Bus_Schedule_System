@@ -29,7 +29,8 @@ namespace Transify.Infrastructure.Persistence.Configurations
                 .IsRequired();
 
             builder.Property(b => b.BusNumber)
-                .IsRequired();
+                .IsRequired()
+                .HasMaxLength(50);
 
             builder.Property(b => b.Capacity)
                 .IsRequired();
@@ -44,6 +45,9 @@ namespace Transify.Infrastructure.Persistence.Configurations
         private void ConfigureIndexes(EntityTypeBuilder<Buses> builder)
         {
             builder.HasIndex(b => b.Status);
+
+            builder.HasIndex(b => b.BusNumber)
+                 .IsUnique();
         }
 
         private void ConfigureDefaults(EntityTypeBuilder<Buses> builder)
@@ -57,7 +61,12 @@ namespace Transify.Infrastructure.Persistence.Configurations
             builder.HasOne(b => b.BusCompany)
                 .WithMany(bc => bc.Buses)
                 .HasForeignKey(b => b.BusCompanyId)
-                .OnDelete(DeleteBehavior.Cascade);
+                .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasMany(b => b.BusSchedules)
+                   .WithOne(bs => bs.Bus)
+                   .HasForeignKey(bs => bs.BusId)
+                   .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

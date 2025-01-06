@@ -3,6 +3,10 @@ using System.ComponentModel.DataAnnotations;
 using Transify.Domain.Models.Enums;
 namespace Transify.Domain.Models.Entities
 {
+   
+    /// <summary>
+    /// Represents a bus entity with details including its company, status, capacity, and timestamps.
+    /// </summary>
     public class Buses
     {
         /// <summary>
@@ -50,7 +54,15 @@ namespace Transify.Domain.Models.Entities
         /// Gets or sets the date and time when the bus information was last updated, if applicable.
         /// </summary>
         public DateTime? UpdatedAt { get; set; }
-        public bool IsDeleted { get; set; }
 
+        /// <summary>
+        /// The collection of bus schedules associated with this bus.
+        /// </summary>
+        public ICollection<BusSchedule> BusSchedules { get; set; } = new List<BusSchedule>();
+
+        /// <summary>
+        /// Indicates whether this bus is marked as deleted.
+        /// </summary>
+        public bool IsDeleted { get; set; }
     }
 }

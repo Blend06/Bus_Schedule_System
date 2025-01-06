@@ -17,6 +17,11 @@ namespace Transify.Infrastructure.Persistence.Configurations
         private void ConfigureKeys(EntityTypeBuilder<BusCompany> builder)
         {
             builder.HasKey(bc => bc.BusCompanyId);
+
+            builder.HasOne(bc => bc.User)
+                   .WithOne()
+                   .HasForeignKey<BusCompany>(bc => bc.UserId)
+                   .OnDelete(DeleteBehavior.Restrict);
         }
 
         private void ConfigureProperties(EntityTypeBuilder<BusCompany> builder)
@@ -25,7 +30,8 @@ namespace Transify.Infrastructure.Persistence.Configurations
                 .ValueGeneratedOnAdd();
 
             builder.Property(bc => bc.CompanyName)
-                .IsRequired();
+                 .IsRequired()
+                 .HasMaxLength(100);
 
             builder.Property(bc => bc.ContactInfo)
                 .IsRequired();
@@ -34,13 +40,30 @@ namespace Transify.Infrastructure.Persistence.Configurations
                 .IsRequired()
                 .HasDefaultValueSql("GETUTCDATE()");
 
-            builder.Property(bc => bc.UpdatedAt);
+            builder.Property(bc => bc.UpdatedAt)
+                .IsRequired(false);
         }
 
         private void ConfigureIndexes(EntityTypeBuilder<BusCompany> builder)
         {
             builder.HasIndex(bc => bc.CompanyName)
                 .IsUnique();
+
+            builder.HasIndex(bc => bc.UserId)
+                .IsUnique();
+        }
+
+        private void ConfigureRelationships(EntityTypeBuilder<BusCompany> builder)
+        {
+            builder.HasMany(bc => bc.Buses)
+                .WithOne(b => b.BusCompany)
+                .HasForeignKey(b => b.BusCompanyId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasMany(bc => bc.BusRoutes)
+               .WithOne(b => b.BusCompany)
+               .HasForeignKey(b => b.BusCompanyId)
+               .OnDelete(DeleteBehavior.Restrict);
         }
 
         private void ConfigureDefaults(EntityTypeBuilder<BusCompany> builder)

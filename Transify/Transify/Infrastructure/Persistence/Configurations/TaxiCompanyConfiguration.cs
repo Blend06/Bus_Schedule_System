@@ -32,6 +32,9 @@ namespace Transify.Infrastructure.Persistence.Configurations
                 .IsRequired()
                 .HasMaxLength(256);
 
+            builder.Property(tr => tr.UserId)
+                .IsRequired();
+
             builder.Property(tc => tc.CreatedAt)
                 .IsRequired()
                 .HasDefaultValueSql("GETUTCDATE()");
@@ -43,6 +46,29 @@ namespace Transify.Infrastructure.Persistence.Configurations
         {
             builder.HasIndex(tc => tc.CompanyName)
                 .IsUnique();
+        }
+
+        private void ConfigureRelationships(EntityTypeBuilder<TaxiCompany> builder)
+        {
+            builder.HasOne(tc => tc.User)
+                .WithMany()
+                .HasForeignKey(tc => tc.UserId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasMany(tc => tc.Taxis)
+              .WithOne(t => t.TaxiCompany)
+              .HasForeignKey(t => t.TaxiCompanyId)
+              .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasMany(tc => tc.TaxiBookings)
+                .WithOne(tb => tb.TaxiCompany)
+                .HasForeignKey(tb => tb.TaxiCompanyId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasMany(tc => tc.TaxiReservations)
+                .WithOne(tr => tr.TaxiCompany)
+                .HasForeignKey(tr => tr.TaxiCompanyId)
+                .OnDelete(DeleteBehavior.Restrict);
         }
 
         private void ConfigureDefaults(EntityTypeBuilder<TaxiCompany> builder)

@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore;
 using Transify.Domain.Models.Entities;
+using Transify.Domain.Models.Enums;
 
 namespace Transify.Infrastructure.Persistence.Configurations
 {
@@ -12,7 +13,7 @@ namespace Transify.Infrastructure.Persistence.Configurations
             ConfigureProperties(builder);
             ConfigureIndexes(builder);
             ConfigureDefaults(builder);
-            //   ConfigureRelationships(builder);
+            ConfigureRelationships(builder);
         }
 
         private void ConfigureKeys(EntityTypeBuilder<User> builder)
@@ -43,6 +44,9 @@ namespace Transify.Infrastructure.Persistence.Configurations
             builder.Property(u => u.Role)
                 .IsRequired();
 
+            builder.Property(u => u.CompanyId)
+               .IsRequired(false);
+
             builder.Property(u => u.IsAdmin)
                 .HasDefaultValue(false);
 
@@ -63,19 +67,25 @@ namespace Transify.Infrastructure.Persistence.Configurations
             builder.Property(u => u.CreatedAt)
                 .HasDefaultValueSql("GETUTCDATE()");
         }
-        //private void ConfigureRelationships(EntityTypeBuilder<User> builder)
-        //{
-        //    builder.HasMany(u => u.TaxiReservations)
-        //        .WithOne(tr => tr.User)
-        //        .HasForeignKey(tr => tr.UserId);
+        private void ConfigureRelationships(EntityTypeBuilder<User> builder)
+        {
+            builder.HasMany(u => u.BusReservations)
+                .WithOne(br => br.User)
+                .HasForeignKey(br => br.UserId)
+                .OnDelete(DeleteBehavior.Restrict)
+                .IsRequired();
 
-        //    builder.HasMany(u => u.TaxiBookings)
-        //        .WithOne(tb => tb.User)
-        //        .HasForeignKey(tb => tb.UserId);
+            builder.HasMany(u => u.TaxiReservations)
+                .WithOne(tr => tr.User)
+                .HasForeignKey(tr => tr.UserId);
 
-        //    builder.HasMany(u => u.Notifications)
-        //        .WithOne(n => n.User)
-        //        .HasForeignKey(n => n.UserId);
-        //}
+            builder.HasMany(u => u.TaxiBookings)
+                .WithOne(tb => tb.User)
+                .HasForeignKey(tb => tb.UserId);
+
+            builder.Property(u => u.BusinessType)
+                 .IsRequired()
+                 .HasDefaultValue(BusinessType.None);
+        }
     }
 }

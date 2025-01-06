@@ -12,8 +12,8 @@ using Transify.Infrastructure.Persistence.Data.Transify.Infrastructure.Persisten
 namespace Transify.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241209221912_TaxiMigration")]
-    partial class TaxiMigration
+    [Migration("20250106230425_Update")]
+    partial class Update
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,6 +24,38 @@ namespace Transify.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("Transify.Domain.Models.Entities.BaseReview", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasMaxLength(13)
+                        .HasColumnType("nvarchar(13)");
+
+                    b.Property<int>("Rating")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Reviews");
+
+                    b.HasDiscriminator().HasValue("BaseReview");
+
+                    b.UseTphMappingStrategy();
+                });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.BusCompany", b =>
                 {
@@ -50,7 +82,12 @@ namespace Transify.Migrations
                     b.Property<DateTime?>("UpdatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
                     b.HasKey("BusCompanyId");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("BusCompanies");
                 });
@@ -62,6 +99,9 @@ namespace Transify.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ReservationId"));
+
+                    b.Property<int?>("BusCompanyId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedAt")
                         .ValueGeneratedOnAdd()
@@ -95,42 +135,13 @@ namespace Transify.Migrations
 
                     b.HasKey("ReservationId");
 
+                    b.HasIndex("BusCompanyId");
+
                     b.HasIndex("ScheduleId");
 
                     b.HasIndex("UserId");
 
                     b.ToTable("BusReservations");
-                });
-
-            modelBuilder.Entity("Transify.Domain.Models.Entities.BusRouteAssignments", b =>
-                {
-                    b.Property<int>("AssignmentId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AssignmentId"));
-
-                    b.Property<int>("BusId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("CreatedAt")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime2")
-                        .HasDefaultValueSql("GETUTCDATE()");
-
-                    b.Property<int>("RouteId")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime?>("UpdatedAt")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("AssignmentId");
-
-                    b.HasIndex("BusId");
-
-                    b.HasIndex("RouteId");
-
-                    b.ToTable("BusRouteAssignments");
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.BusRoutes", b =>
@@ -140,6 +151,9 @@ namespace Transify.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RouteId"));
+
+                    b.Property<int>("BusCompanyId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
@@ -162,6 +176,8 @@ namespace Transify.Migrations
 
                     b.HasKey("RouteId");
 
+                    b.HasIndex("BusCompanyId");
+
                     b.ToTable("BusRoutes");
                 });
 
@@ -177,6 +193,9 @@ namespace Transify.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<int>("AvailableSeats")
+                        .HasColumnType("int");
+
+                    b.Property<int>("BusCompanyId")
                         .HasColumnType("int");
 
                     b.Property<int>("BusId")
@@ -204,6 +223,8 @@ namespace Transify.Migrations
                         .HasColumnType("datetime2");
 
                     b.HasKey("ScheduleId");
+
+                    b.HasIndex("BusCompanyId");
 
                     b.HasIndex("BusId");
 
@@ -248,39 +269,6 @@ namespace Transify.Migrations
                     b.ToTable("Buses");
                 });
 
-            modelBuilder.Entity("Transify.Domain.Models.Entities.Notifications", b =>
-                {
-                    b.Property<int>("NotificationId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("NotificationId"));
-
-                    b.Property<int?>("BookingId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Message")
-                        .IsRequired()
-                        .HasMaxLength(256)
-                        .HasColumnType("nvarchar(256)");
-
-                    b.Property<DateTime>("SentAt")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime2")
-                        .HasDefaultValueSql("GETUTCDATE()");
-
-                    b.Property<int>("UserId")
-                        .HasColumnType("int");
-
-                    b.HasKey("NotificationId");
-
-                    b.HasIndex("BookingId");
-
-                    b.HasIndex("UserId");
-
-                    b.ToTable("Notifications");
-                });
-
             modelBuilder.Entity("Transify.Domain.Models.Entities.Taxi", b =>
                 {
                     b.Property<int>("TaxiId")
@@ -294,13 +282,13 @@ namespace Transify.Migrations
                         .HasColumnType("datetime2")
                         .HasDefaultValueSql("GETUTCDATE()");
 
-                    b.Property<string>("DriverName")
-                        .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
+                    b.Property<int?>("DriverId")
+                        .HasColumnType("int");
 
                     b.Property<bool>("IsDeleted")
-                        .HasColumnType("bit");
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bit")
+                        .HasDefaultValue(false);
 
                     b.Property<string>("LicensePlate")
                         .IsRequired()
@@ -317,6 +305,10 @@ namespace Transify.Migrations
                         .HasColumnType("datetime2");
 
                     b.HasKey("TaxiId");
+
+                    b.HasIndex("DriverId")
+                        .IsUnique()
+                        .HasFilter("[DriverId] IS NOT NULL");
 
                     b.HasIndex("LicensePlate")
                         .IsUnique();
@@ -343,6 +335,9 @@ namespace Transify.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
                         .HasDefaultValueSql("GETUTCDATE()");
+
+                    b.Property<int?>("DriverId")
+                        .HasColumnType("int");
 
                     b.Property<string>("DropoffLocation")
                         .IsRequired()
@@ -422,10 +417,15 @@ namespace Transify.Migrations
                     b.Property<DateTime?>("UpdatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
                     b.HasKey("TaxiCompanyId");
 
                     b.HasIndex("CompanyName")
                         .IsUnique();
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("TaxiCompanies");
                 });
@@ -505,6 +505,14 @@ namespace Transify.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserId"));
 
+                    b.Property<int>("BusinessType")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasDefaultValue(0);
+
+                    b.Property<int?>("CompanyId")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("CreatedAt")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
@@ -548,59 +556,91 @@ namespace Transify.Migrations
                     b.ToTable("Users");
                 });
 
-            modelBuilder.Entity("Transify.Domain.Models.Entities.BusReservations", b =>
+            modelBuilder.Entity("Transify.Domain.Models.Entities.UserReview", b =>
                 {
-                    b.HasOne("Transify.Domain.Models.Entities.BusSchedule", "Schedule")
-                        .WithMany()
-                        .HasForeignKey("ScheduleId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.HasBaseType("Transify.Domain.Models.Entities.BaseReview");
 
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("UserName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasDiscriminator().HasValue("UserReview");
+                });
+
+            modelBuilder.Entity("Transify.Domain.Models.Entities.BusCompany", b =>
+                {
                     b.HasOne("Transify.Domain.Models.Entities.User", "User")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("Transify.Domain.Models.Entities.BusReservations", b =>
+                {
+                    b.HasOne("Transify.Domain.Models.Entities.BusCompany", "BusCompany")
+                        .WithMany("BusReservations")
+                        .HasForeignKey("BusCompanyId")
+                        .OnDelete(DeleteBehavior.Restrict);
+
+                    b.HasOne("Transify.Domain.Models.Entities.BusSchedule", "Schedule")
+                        .WithMany()
+                        .HasForeignKey("ScheduleId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("Transify.Domain.Models.Entities.User", "User")
+                        .WithMany("BusReservations")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("BusCompany");
+
                     b.Navigation("Schedule");
 
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("Transify.Domain.Models.Entities.BusRouteAssignments", b =>
+            modelBuilder.Entity("Transify.Domain.Models.Entities.BusRoutes", b =>
                 {
-                    b.HasOne("Transify.Domain.Models.Entities.Buses", "Bus")
-                        .WithMany()
-                        .HasForeignKey("BusId")
+                    b.HasOne("Transify.Domain.Models.Entities.BusCompany", "BusCompany")
+                        .WithMany("BusRoutes")
+                        .HasForeignKey("BusCompanyId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Transify.Domain.Models.Entities.BusRoutes", "Route")
-                        .WithMany()
-                        .HasForeignKey("RouteId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Bus");
-
-                    b.Navigation("Route");
+                    b.Navigation("BusCompany");
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.BusSchedule", b =>
                 {
-                    b.HasOne("Transify.Domain.Models.Entities.Buses", "Bus")
-                        .WithMany()
-                        .HasForeignKey("BusId")
+                    b.HasOne("Transify.Domain.Models.Entities.BusCompany", "BusCompany")
+                        .WithMany("BusSchedules")
+                        .HasForeignKey("BusCompanyId")
                         .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Transify.Domain.Models.Entities.Buses", "Bus")
+                        .WithMany("BusSchedules")
+                        .HasForeignKey("BusId")
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("Transify.Domain.Models.Entities.BusRoutes", "Route")
                         .WithMany()
                         .HasForeignKey("RouteId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Bus");
+
+                    b.Navigation("BusCompany");
 
                     b.Navigation("Route");
                 });
@@ -616,30 +656,20 @@ namespace Transify.Migrations
                     b.Navigation("BusCompany");
                 });
 
-            modelBuilder.Entity("Transify.Domain.Models.Entities.Notifications", b =>
-                {
-                    b.HasOne("Transify.Domain.Models.Entities.TaxiBookings", "TaxiBooking")
-                        .WithMany("Notifications")
-                        .HasForeignKey("BookingId");
-
-                    b.HasOne("Transify.Domain.Models.Entities.User", "User")
-                        .WithMany("Notifications")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("TaxiBooking");
-
-                    b.Navigation("User");
-                });
-
             modelBuilder.Entity("Transify.Domain.Models.Entities.Taxi", b =>
                 {
+                    b.HasOne("Transify.Domain.Models.Entities.User", "Driver")
+                        .WithMany()
+                        .HasForeignKey("DriverId")
+                        .OnDelete(DeleteBehavior.Restrict);
+
                     b.HasOne("Transify.Domain.Models.Entities.TaxiCompany", "TaxiCompany")
                         .WithMany("Taxis")
                         .HasForeignKey("TaxiCompanyId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
+
+                    b.Navigation("Driver");
 
                     b.Navigation("TaxiCompany");
                 });
@@ -647,19 +677,20 @@ namespace Transify.Migrations
             modelBuilder.Entity("Transify.Domain.Models.Entities.TaxiBookings", b =>
                 {
                     b.HasOne("Transify.Domain.Models.Entities.TaxiCompany", "TaxiCompany")
-                        .WithMany()
+                        .WithMany("TaxiBookings")
                         .HasForeignKey("TaxiCompanyId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("Transify.Domain.Models.Entities.Taxi", "Taxi")
                         .WithMany("TaxiBookings")
-                        .HasForeignKey("TaxiId");
+                        .HasForeignKey("TaxiId")
+                        .OnDelete(DeleteBehavior.SetNull);
 
                     b.HasOne("Transify.Domain.Models.Entities.User", "User")
                         .WithMany("TaxiBookings")
                         .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Taxi");
@@ -669,12 +700,23 @@ namespace Transify.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("Transify.Domain.Models.Entities.TaxiCompany", b =>
+                {
+                    b.HasOne("Transify.Domain.Models.Entities.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("Transify.Domain.Models.Entities.TaxiReservations", b =>
                 {
                     b.HasOne("Transify.Domain.Models.Entities.TaxiCompany", "TaxiCompany")
-                        .WithMany()
+                        .WithMany("TaxiReservations")
                         .HasForeignKey("TaxiCompanyId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("Transify.Domain.Models.Entities.Taxi", "Taxi")
@@ -697,7 +739,18 @@ namespace Transify.Migrations
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.BusCompany", b =>
                 {
+                    b.Navigation("BusReservations");
+
+                    b.Navigation("BusRoutes");
+
+                    b.Navigation("BusSchedules");
+
                     b.Navigation("Buses");
+                });
+
+            modelBuilder.Entity("Transify.Domain.Models.Entities.Buses", b =>
+                {
+                    b.Navigation("BusSchedules");
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.Taxi", b =>
@@ -707,19 +760,18 @@ namespace Transify.Migrations
                     b.Navigation("TaxiReservations");
                 });
 
-            modelBuilder.Entity("Transify.Domain.Models.Entities.TaxiBookings", b =>
-                {
-                    b.Navigation("Notifications");
-                });
-
             modelBuilder.Entity("Transify.Domain.Models.Entities.TaxiCompany", b =>
                 {
+                    b.Navigation("TaxiBookings");
+
+                    b.Navigation("TaxiReservations");
+
                     b.Navigation("Taxis");
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.User", b =>
                 {
-                    b.Navigation("Notifications");
+                    b.Navigation("BusReservations");
 
                     b.Navigation("TaxiBookings");
 

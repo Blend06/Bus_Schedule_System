@@ -59,6 +59,16 @@ namespace Transify.Domain.Models.Entities
         public int UserId { get; set; }
 
         /// <summary>
+        /// The nullable unique identifier for the associated bus company.
+        /// </summary>
+        public int? BusCompanyId { get; set; }
+
+        /// <summary>
+        /// The bus company associated with this entity.
+        /// </summary>
+        public BusCompany BusCompany { get; set; } = null!;
+
+        /// <summary>
         /// Gets or sets the current status of the reservation.
         /// </summary>
         [Required]
@@ -67,7 +77,7 @@ namespace Transify.Domain.Models.Entities
         /// <summary>
         /// Navigation property for accessing the bus schedule associated with the reservation.
         /// </summary>
-        public BusSchedule Schedule { get; set; } = null!;
+        public BusSchedule? Schedule { get; set; } = null!;
 
         /// <summary>
         /// Navigation property for accessing the user who made the reservation.
@@ -75,4 +85,3 @@ namespace Transify.Domain.Models.Entities
         public User User { get; set; } = null!;
     }
 }
-

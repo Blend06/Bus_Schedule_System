@@ -3,6 +3,9 @@ using Transify.Domain.Models.Enums;
 
 namespace Transify.Domain.Models.Entities
 {
+    /// <summary>
+    /// Represents the scheduling details for a bus, including timing, pricing, and capacity.
+    /// </summary>
     public class BusSchedule
     {
         /// <summary>
@@ -57,6 +60,16 @@ namespace Transify.Domain.Models.Entities
         /// </summary>
         [Required]
         public int RouteId { get; set; }
+
+        /// <summary>
+        /// Gets or sets the unique identifier for the associated bus company.
+        /// </summary>
+        public int BusCompanyId { get; set; }
+
+        /// <summary>
+        /// Gets or sets the bus company associated with this bus.
+        /// </summary>
+        public BusCompany BusCompany { get; set; } = null!;
 
         /// <summary>
         /// Gets or sets the status of the bus schedule.

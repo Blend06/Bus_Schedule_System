@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Presentation",
+    "\\Presentation\\Views",
+    "\\Presentation\\Views\\Authenticate",
+    "\\Presentation\\Views\\Bus",
+    "\\Presentation\\Views\\Dashboard",
+    "\\Presentation\\Views\\Home",
+    "\\Presentation\\Views\\PrivacyPolicy",
+    "\\Presentation\\Views\\Reviews",
+    "\\Presentation\\Views\\Shared"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}

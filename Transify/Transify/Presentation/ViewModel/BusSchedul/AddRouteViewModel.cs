@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using Transify.Models.Entities;
+using Transify.Domain.Models.Entities;
 
-namespace Transify.ViewModel.BusSchedul
+namespace Transify.Presentation.ViewModel.BusSchedul
 {
     /// <summary>
     /// Represents the data required to add a new bus route.

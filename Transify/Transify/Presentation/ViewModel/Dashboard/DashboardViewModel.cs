@@ -1,4 +1,4 @@
-namespace Transify.ViewModel.Dashboard
+namespace Transify.Presentation.ViewModel.Dashboard
 {
     /// <summary>
     /// Represents the data structure for dashboard metrics.

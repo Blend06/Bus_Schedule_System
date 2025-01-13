@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace Transify.ViewModel.Bus
+namespace Transify.Presentation.ViewModel.Bus
 {
     /// <summary>
     /// Represents a bus and its associated company information.

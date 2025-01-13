@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using Transify.Models.Entities;
-using Transify.Models.Enums;
+using Transify.Domain.Models.Entities;
+using Transify.Domain.Models.Enums;
 
 namespace Transify.ViewModel.TaxiModels
 {

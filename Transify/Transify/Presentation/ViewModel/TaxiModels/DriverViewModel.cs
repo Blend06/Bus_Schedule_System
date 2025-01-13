@@ -1,4 +1,4 @@
-namespace Transify.ViewModel.TaxiModels
+namespace Transify.Presentation.ViewModel.TaxiModels
 {
     public class DriverViewModel
     {

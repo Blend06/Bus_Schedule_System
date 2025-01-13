@@ -1,69 +1,320 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\",
+  "WorkspaceRootPath": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\dashboard\\taxi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\dashboard\\taxi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\taxicompanyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\taximodels\\taxiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\taximodels\\taxiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\taximodels\\taxicompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\taximodels\\taxicompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\taximodels\\managetaxicompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\taximodels\\managetaxicompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\taximodels\\edittaxiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\taximodels\\edittaxiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\taximodels\\driverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\taximodels\\driverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\taximodels\\addtaxiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\taximodels\\addtaxiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\taximodels\\addtaxidriverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\taximodels\\addtaxidriverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\taximodels\\addtaxicompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\taximodels\\addtaxicompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\dashboard\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\dashboard\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\busschedul\\searchscheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\busschedul\\searchscheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\busschedul\\editscheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\busschedul\\editscheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\busschedul\\addscheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\busschedul\\addscheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\busschedul\\addrouteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\busschedul\\addrouteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\busreservation\\mybusreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\busreservation\\mybusreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\busreservation\\editreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\busreservation\\editreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\busreservation\\addbusreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\busreservation\\addbusreservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\bus\\managebuscompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\bus\\managebuscompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\bus\\editbusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\bus\\editbusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\bus\\busviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\bus\\busviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\bus\\buscompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\bus\\buscompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\bus\\addbusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\bus\\addbusviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\bus\\addbuscompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\bus\\addbuscompanyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\authenticate\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\authenticate\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\authenticate\\registerdriverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\authenticate\\registerdriverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\authenticate\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\authenticate\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\authenticate\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\authenticate\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\viewmodel\\authenticate\\editdriverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\viewmodel\\authenticate\\editdriverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\useractivity\\myreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\useractivity\\myreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\useractivity\\mybusseats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\useractivity\\mybusseats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\useractivity\\mybooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\useractivity\\mybooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\taxi\\taxireservationmanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\taxi\\taxireservationmanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\taxi\\taxidriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\taxi\\taxidriver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\taxi\\taxibookingmanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\taxi\\taxibookingmanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\taxi\\taxibooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\taxi\\taxibooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\reviews\\submitreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\reviews\\submitreview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\bus\\busschedules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\bus\\busschedules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\bus\\busschedulemanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\bus\\busschedulemanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\bus\\busreservationmanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\bus\\busreservationmanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\authenticate\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\authenticate\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\authenticate\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\authenticate\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\authenticate\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\authenticate\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\taxi\\taxireservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\taxi\\taxireservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\privacypolicy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\privacypolicy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\home\\useractivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\home\\useractivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\dashboard\\bus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\dashboard\\bus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\authenticate\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\authenticate\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\views\\authenticate\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\views\\authenticate\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\wwwroot\\css\\soft-ui-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\wwwroot\\css\\soft-ui-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\wwwroot\\css\\nucleo-svg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\wwwroot\\css\\nucleo-svg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\presentation\\wwwroot\\css\\nucleo-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\presentation\\wwwroot\\css\\nucleo-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\taxicompanyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\configurations\\taxicompanyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\taxiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\configurations\\taxiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\taxicompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\taxicompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\taxireservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\taxireservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\taxibookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\taxibookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\taxibookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\busschedulestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\enums\\busschedulestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\taxireservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\taxireservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\BusCompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\taxistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\enums\\taxistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\buscompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\buscompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\buses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\taxicompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\taxicompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\busroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\busroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\buses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\buses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\migrations\\20241209221912_taximigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\migrations\\20241209221912_taximigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\taxiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\configurations\\taxiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\apistatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\busschedulestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\enums\\busschedulestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\taxistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\enums\\taxistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\apistatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\enums\\apistatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\responsecodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\enums\\responsecodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\enums\\responsecodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -73,43 +324,31 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ApiStatusEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\busschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\busschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\busschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\busroutesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\busroutesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\configurations\\busroutesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\taxibookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\taxibookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\configurations\\taxibookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\taxireservationsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\taxireservationsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\configurations\\taxireservationsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\busesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\bus_schedule_system\\transify\\transify\\infrastructure\\persistence\\configurations\\busesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\infrastructure\\persistence\\configurations\\busesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\buscompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\buscompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\busrouteassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\busrouteassignments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\plus computers\\desktop\\paterna dhe rifaktorimi i kodit\\bus_schedule_system\\transify\\transify\\domain\\models\\entities\\busroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\domain\\models\\entities\\busroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\BookingStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -143,170 +382,941 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T00:18:25.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaxiCompany.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiCompany.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\TaxiCompany.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiCompany.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\TaxiCompany.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T00:09:54.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaxiReservations.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiReservations.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\TaxiReservations.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiReservations.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\TaxiReservations.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAADwv2sAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:58:22.091Z",
+              "Title": "_DashboardLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:37.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TaxiConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiConfiguration.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiConfiguration.cs",
-              "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiConfiguration.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwEYAAAAwAAAAAAAAAA==",
+              "Title": "TaxiCompanyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\TaxiCompanyViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\TaxiModels\\TaxiCompanyViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\TaxiCompanyViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\TaxiModels\\TaxiCompanyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:48:14.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:13:01.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwCYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ManageTaxiCompanyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\ManageTaxiCompanyViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\TaxiModels\\ManageTaxiCompanyViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\ManageTaxiCompanyViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\TaxiModels\\ManageTaxiCompanyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:53:44.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:12:48.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditTaxiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\EditTaxiViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\TaxiModels\\EditTaxiViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\EditTaxiViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\TaxiModels\\EditTaxiViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:12:41.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Notifications.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Notifications.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\Notifications.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Notifications.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\Notifications.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwAEAAAAsAAAAAAAAAA==",
+              "Title": "DriverViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\DriverViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\TaxiModels\\DriverViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\DriverViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\TaxiModels\\DriverViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:46:35.374Z",
+              "WhenOpened": "2025-01-12T23:12:35.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Taxi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Dashboard\\Taxi.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Dashboard\\Taxi.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Dashboard\\Taxi.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Dashboard\\Taxi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:07.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TaxiCompanyConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiCompanyConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiCompanyConfiguration.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiCompanyConfiguration.cs",
-              "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiCompanyConfiguration.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Title": "TaxiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\TaxiViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\TaxiModels\\TaxiViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\TaxiViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\TaxiModels\\TaxiViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:48:19.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:13:07.662Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TaxiBookings.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiBookings.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\TaxiBookings.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiBookings.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\TaxiBookings.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFEAAAAWAAAAAAAAAA==",
+              "Title": "AddTaxiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T00:07:56.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:12:31.273Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BusScheduleStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\BusScheduleStatus.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Enums\\BusScheduleStatus.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\BusScheduleStatus.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Enums\\BusScheduleStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Title": "AddTaxiDriverViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiDriverViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiDriverViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiDriverViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiDriverViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T00:05:21.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:12:25.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddTaxiCompanyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiCompanyViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiCompanyViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiCompanyViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\TaxiModels\\AddTaxiCompanyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:12:18.778Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "TaxiStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\TaxiStatus.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Enums\\TaxiStatus.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\TaxiStatus.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Enums\\TaxiStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Dashboard\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Dashboard\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Dashboard\\DashboardViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Dashboard\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T00:05:08.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:12:10.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchScheduleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusSchedul\\SearchScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\BusSchedul\\SearchScheduleViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusSchedul\\SearchScheduleViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\BusSchedul\\SearchScheduleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:12:02.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditScheduleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusSchedul\\EditScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\BusSchedul\\EditScheduleViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusSchedul\\EditScheduleViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\BusSchedul\\EditScheduleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:11:53.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "20241209221912_TaxiMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\20241209221912_TaxiMigration.cs",
-              "RelativeDocumentMoniker": "Transify\\Migrations\\20241209221912_TaxiMigration.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\20241209221912_TaxiMigration.cs",
-              "RelativeToolTip": "Transify\\Migrations\\20241209221912_TaxiMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Title": "AddScheduleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusSchedul\\AddScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\BusSchedul\\AddScheduleViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusSchedul\\AddScheduleViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\BusSchedul\\AddScheduleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T22:19:13.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T23:11:46.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddRouteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusSchedul\\AddRouteViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\BusSchedul\\AddRouteViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusSchedul\\AddRouteViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\BusSchedul\\AddRouteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:11:38.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyBusReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusReservation\\MyBusReservationViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\BusReservation\\MyBusReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusReservation\\MyBusReservationViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\BusReservation\\MyBusReservationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:11:30.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusReservation\\EditReservationViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\BusReservation\\EditReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusReservation\\EditReservationViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\BusReservation\\EditReservationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:11:20.829Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "AddBusReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusReservation\\AddBusReservationViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\BusReservation\\AddBusReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\BusReservation\\AddBusReservationViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\BusReservation\\AddBusReservationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:11:14.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManageBusCompanyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\ManageBusCompanyViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Bus\\ManageBusCompanyViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\ManageBusCompanyViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Bus\\ManageBusCompanyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:11:00.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditBusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\EditBusViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Bus\\EditBusViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\EditBusViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Bus\\EditBusViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:10:54.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\BusViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Bus\\BusViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\BusViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Bus\\BusViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:10:46.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddBusViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\AddBusViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Bus\\AddBusViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\AddBusViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Bus\\AddBusViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:10:35.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BusCompanyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\BusCompanyViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Bus\\BusCompanyViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\BusCompanyViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Bus\\BusCompanyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:10:34.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddBusCompanyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\AddBusCompanyViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Bus\\AddBusCompanyViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Bus\\AddBusCompanyViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Bus\\AddBusCompanyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:10:27.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Authenticate\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\RegisterViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Authenticate\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:10:06.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterDriverViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\RegisterDriverViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Authenticate\\RegisterDriverViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\RegisterDriverViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Authenticate\\RegisterDriverViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:09:59.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Authenticate\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\LoginViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Authenticate\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:09:54.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Authenticate\\EditUserViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\EditUserViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Authenticate\\EditUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:09:46.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditDriverViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\EditDriverViewModel.cs",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\ViewModel\\Authenticate\\EditDriverViewModel.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\ViewModel\\Authenticate\\EditDriverViewModel.cs",
+              "RelativeToolTip": "Transify\\Presentation\\ViewModel\\Authenticate\\EditDriverViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:09:39.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:09:27.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:09:26.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MyReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\UserActivity\\MyReservation.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\UserActivity\\MyReservation.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\UserActivity\\MyReservation.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\UserActivity\\MyReservation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:08:51.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MyBusSeats.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\UserActivity\\MyBusSeats.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\UserActivity\\MyBusSeats.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\UserActivity\\MyBusSeats.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\UserActivity\\MyBusSeats.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:08:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:42.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TaxiBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiBooking.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Taxi\\TaxiBooking.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiBooking.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Taxi\\TaxiBooking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:45.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TaxiBookingManagment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiBookingManagment.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Taxi\\TaxiBookingManagment.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiBookingManagment.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Taxi\\TaxiBookingManagment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:46.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TaxiDriver.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiDriver.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Taxi\\TaxiDriver.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiDriver.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Taxi\\TaxiDriver.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:47.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TaxiReservationManagment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiReservationManagment.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Taxi\\TaxiReservationManagment.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiReservationManagment.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Taxi\\TaxiReservationManagment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:49.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\UserActivity\\MyBooking.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\UserActivity\\MyBooking.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\UserActivity\\MyBooking.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\UserActivity\\MyBooking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:50.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SubmitReview.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Reviews\\SubmitReview.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Reviews\\SubmitReview.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Reviews\\SubmitReview.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Reviews\\SubmitReview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:30.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BusSchedules.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Bus\\BusSchedules.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Bus\\BusSchedules.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Bus\\BusSchedules.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Bus\\BusSchedules.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:05:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BusScheduleManagment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Bus\\BusScheduleManagment.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Bus\\BusScheduleManagment.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Bus\\BusScheduleManagment.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Bus\\BusScheduleManagment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:05:47.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BusReservationManagment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Bus\\BusReservationManagment.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Bus\\BusReservationManagment.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Bus\\BusReservationManagment.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Bus\\BusReservationManagment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:05:41.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Authenticate\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\UserList.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Authenticate\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:05:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\Register.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Authenticate\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\Register.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Authenticate\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:05:19.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\Login.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Authenticate\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\Login.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Authenticate\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T22:56:06.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TaxiReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiReservation.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Taxi\\TaxiReservation.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Taxi\\TaxiReservation.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Taxi\\TaxiReservation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:48.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:41.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\PrivacyPolicy\\index.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\PrivacyPolicy\\index.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\PrivacyPolicy\\index.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\PrivacyPolicy\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:28.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserActivity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Home\\UserActivity.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Home\\UserActivity.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Home\\UserActivity.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Home\\UserActivity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:26.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Home\\Services.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:24.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Home\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:06:16.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:05:57.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Bus.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Dashboard\\Bus.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Dashboard\\Bus.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Dashboard\\Bus.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Dashboard\\Bus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T23:05:51.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Authenticate\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\Edit.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Authenticate\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T22:55:35.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\Views\\Authenticate\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\Views\\Authenticate\\Delete.cshtml",
+              "RelativeToolTip": "Transify\\Presentation\\Views\\Authenticate\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T22:55:34.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Transify\\Presentation\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-12T22:55:13.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "soft-ui-dashboard.css",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\soft-ui-dashboard.css",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\wwwroot\\css\\soft-ui-dashboard.css",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\soft-ui-dashboard.css",
+              "RelativeToolTip": "Transify\\Presentation\\wwwroot\\css\\soft-ui-dashboard.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-12T22:55:13.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Transify\\Presentation\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-12T22:55:12.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "nucleo-svg.css",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\nucleo-svg.css",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\wwwroot\\css\\nucleo-svg.css",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\nucleo-svg.css",
+              "RelativeToolTip": "Transify\\Presentation\\wwwroot\\css\\nucleo-svg.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-12T22:55:11.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "nucleo-icons.css",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\nucleo-icons.css",
+              "RelativeDocumentMoniker": "Transify\\Presentation\\wwwroot\\css\\nucleo-icons.css",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Presentation\\wwwroot\\css\\nucleo-icons.css",
+              "RelativeToolTip": "Transify\\Presentation\\wwwroot\\css\\nucleo-icons.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-12T22:55:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TaxiBookings.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiBookings.cs",
+              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\TaxiBookings.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiBookings.cs",
+              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\TaxiBookings.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:07:56.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TaxiCompanyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiCompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiCompanyConfiguration.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiCompanyConfiguration.cs",
+              "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiCompanyConfiguration.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:48:19.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Transify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Transify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAO0CAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:07:06.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TaxiReservations.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiReservations.cs",
+              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\TaxiReservations.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiReservations.cs",
+              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\TaxiReservations.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv3AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:58:22.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TaxiCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiCompany.cs",
+              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\TaxiCompany.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\TaxiCompany.cs",
+              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\TaxiCompany.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:09:54.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Taxi.cs",
+              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\Taxi.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Taxi.cs",
+              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\Taxi.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:49:16.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BusCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusCompany.cs",
+              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\BusCompany.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusCompany.cs",
+              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\BusCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:51:38.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BusCompany.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\BusCompany.cs",
+              "RelativeDocumentMoniker": "..\\..\\pentasharp\\pentasharp\\Models\\Entities\\BusCompany.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\BusCompany.cs",
+              "RelativeToolTip": "..\\..\\pentasharp\\pentasharp\\Models\\Entities\\BusCompany.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T22:23:06.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BusRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusRoutes.cs",
+              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\BusRoutes.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusRoutes.cs",
+              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\BusRoutes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:51:50.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "TaxiConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiConfiguration.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiConfiguration.cs",
+              "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiConfiguration.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:48:14.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:53:44.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:18:25.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Buses.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Buses.cs",
+              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\Buses.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Buses.cs",
+              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\Buses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:51:45.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BusScheduleStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\BusScheduleStatus.cs",
+              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Enums\\BusScheduleStatus.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\BusScheduleStatus.cs",
+              "RelativeToolTip": "Transify\\Domain\\Models\\Enums\\BusScheduleStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:05:21.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "TaxiStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\TaxiStatus.cs",
+              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Enums\\TaxiStatus.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\TaxiStatus.cs",
+              "RelativeToolTip": "Transify\\Domain\\Models\\Enums\\TaxiStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:05:08.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
               "Title": "ApiStatusEnum.cs",
               "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ApiStatusEnum.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\pentasharp\\pentasharp\\Models\\Enums\\ApiStatusEnum.cs",
+              "RelativeDocumentMoniker": "..\\..\\pentasharp\\pentasharp\\Models\\Enums\\ApiStatusEnum.cs",
               "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ApiStatusEnum.cs",
-              "RelativeToolTip": "..\\..\\..\\pentasharp\\pentasharp\\Models\\Enums\\ApiStatusEnum.cs",
+              "RelativeToolTip": "..\\..\\pentasharp\\pentasharp\\Models\\Enums\\ApiStatusEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T22:16:59.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 77,
               "Title": "ApiStatusEnum.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ApiStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ApiStatusEnum.cs",
               "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Enums\\ApiStatusEnum.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ApiStatusEnum.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ApiStatusEnum.cs",
               "RelativeToolTip": "Transify\\Domain\\Models\\Enums\\ApiStatusEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -314,62 +1324,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 75,
               "Title": "ReservationStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ReservationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ReservationStatus.cs",
               "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Enums\\ReservationStatus.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ReservationStatus.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ReservationStatus.cs",
               "RelativeToolTip": "Transify\\Domain\\Models\\Enums\\ReservationStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:33:53.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T20:33:53.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 79,
               "Title": "ResponseCodes.cs",
               "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ResponseCodes.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\pentasharp\\pentasharp\\Models\\Enums\\ResponseCodes.cs",
+              "RelativeDocumentMoniker": "..\\..\\pentasharp\\pentasharp\\Models\\Enums\\ResponseCodes.cs",
               "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ResponseCodes.cs",
-              "RelativeToolTip": "..\\..\\..\\pentasharp\\pentasharp\\Models\\Enums\\ResponseCodes.cs",
+              "RelativeToolTip": "..\\..\\pentasharp\\pentasharp\\Models\\Enums\\ResponseCodes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T22:17:59.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Buses.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Buses.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\Buses.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Buses.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\Buses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:51:45.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Taxi.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Taxi.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\Taxi.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\Taxi.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\Taxi.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA/wDgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:49:16.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 78,
               "Title": "ResponseCodes.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ResponseCodes.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ResponseCodes.cs",
               "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Enums\\ResponseCodes.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ResponseCodes.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Enums\\ResponseCodes.cs",
               "RelativeToolTip": "Transify\\Domain\\Models\\Enums\\ResponseCodes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -377,11 +1360,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 81,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\User.cs",
               "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\User.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAiwDsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -389,11 +1372,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 82,
               "Title": "BusSchedule.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusSchedule.cs",
               "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\BusSchedule.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusSchedule.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusSchedule.cs",
               "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\BusSchedule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -401,11 +1384,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 83,
               "Title": "BusRoutesConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\BusRoutesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\BusRoutesConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\BusRoutesConfiguration.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\BusRoutesConfiguration.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\BusRoutesConfiguration.cs",
               "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\BusRoutesConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -413,11 +1396,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 84,
               "Title": "TaxiBookingConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiBookingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiBookingConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiBookingConfiguration.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiBookingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiBookingConfiguration.cs",
               "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiBookingConfiguration.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -425,11 +1408,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 85,
               "Title": "TaxiReservationsConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiReservationsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiReservationsConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiReservationsConfiguration.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiReservationsConfiguration.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\TaxiReservationsConfiguration.cs",
               "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\TaxiReservationsConfiguration.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAgwFoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -437,23 +1420,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 86,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\pentasharp\\pentasharp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\pentasharp\\pentasharp\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\pentasharp\\pentasharp\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "..\\..\\..\\pentasharp\\pentasharp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\pentasharp\\pentasharp\\Data\\AppDbContext.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T21:55:15.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 87,
               "Title": "BusesConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\BusesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\BusesConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Infrastructure\\Persistence\\Configurations\\BusesConfiguration.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\BusesConfiguration.cs",
+              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Infrastructure\\Persistence\\Configurations\\BusesConfiguration.cs",
               "RelativeToolTip": "Transify\\Infrastructure\\Persistence\\Configurations\\BusesConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -461,132 +1444,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BusCompany.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusCompany.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\BusCompany.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusCompany.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\BusCompany.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:51:38.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BusRouteAssignments.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusRouteAssignments.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\BusRouteAssignments.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusRouteAssignments.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\BusRouteAssignments.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:51:49.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BusRoutes.cs",
-              "DocumentMoniker": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusRoutes.cs",
-              "RelativeDocumentMoniker": "Transify\\Domain\\Models\\Entities\\BusRoutes.cs",
-              "ToolTip": "C:\\Users\\Plus Computers\\Desktop\\Paterna dhe Rifaktorimi i Kodit\\Bus_Schedule_System\\Transify\\Transify\\Domain\\Models\\Entities\\BusRoutes.cs",
-              "RelativeToolTip": "Transify\\Domain\\Models\\Entities\\BusRoutes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:51:50.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 88,
               "Title": "BookingStatus.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\BookingStatus.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\BookingStatus.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\BookingStatus.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\BookingStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\BookingStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:48:34.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 89,
               "Title": "Notifications.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Notifications.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Notifications.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Notifications.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Notifications.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Notifications.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Notifications.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:46:19.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 91,
               "Title": "ReservationStatus.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ReservationStatus.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ReservationStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ReservationStatus.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ReservationStatus.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ReservationStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\ReservationStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:33:39.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 90,
               "Title": "TaxiStatus.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\TaxiStatus.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\TaxiStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\TaxiStatus.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\TaxiStatus.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\TaxiStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Enums\\TaxiStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:04:09.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 92,
               "Title": "TaxiReservations.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiReservations.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiReservations.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiReservations.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiReservations.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiReservations.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiReservations.cs",
               "ViewState": "AQIAAGAAAAAAAAAAAAAAAG4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:32:08.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 93,
               "Title": "TaxiCompany.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiCompany.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiCompany.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiCompany.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiCompany.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiCompany.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiCompany.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:30:37.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 94,
               "Title": "TaxiBookings.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiBookings.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiBookings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiBookings.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiBookings.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiBookings.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\TaxiBookings.cs",
               "ViewState": "AQIAAFIAAAAAAAAAAAAswGYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:28:58.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 95,
               "Title": "Taxi.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Taxi.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Taxi.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Taxi.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Taxi.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Taxi.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Lenovo\\Desktop\\pentasharp\\pentasharp\\Models\\Entities\\Taxi.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:01:54.649Z"

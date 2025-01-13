@@ -1,8 +1,8 @@
 using System;
 using System.ComponentModel.DataAnnotations;
-using Transify.Models.Enums;
+using Transify.Domain.Models.Enums;
 
-namespace Transify.ViewModel.BusSchedul
+namespace Transify.Presentation.ViewModel.BusSchedul
 {
     /// <summary>
     /// Represents the data required to add a new bus schedule.

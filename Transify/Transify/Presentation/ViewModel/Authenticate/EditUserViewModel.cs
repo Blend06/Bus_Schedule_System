@@ -1,4 +1,4 @@
-using Transify.Models.Enums;
+using Transify.Domain.Models.Enums;
 
 namespace Transify.ViewModel.Authenticate
 {

@@ -1,6 +1,6 @@
-using Transify.Models.Enums;
+using Transify.Domain.Models.Enums;
 
-namespace Transify.ViewModel.BusReservation
+namespace Transify.Presentation.ViewModel.BusReservation
 {
     /// <summary>
     /// Represents the data required to edit an existing bus reservation.

@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Transify.ViewModel.Bus
+namespace Transify.Presentation.ViewModel.Bus
 {
     /// <summary>
     /// Represents a view model used to manage and display a list of bus companies.

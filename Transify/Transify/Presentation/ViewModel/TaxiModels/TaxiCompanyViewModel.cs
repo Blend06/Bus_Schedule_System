@@ -1,6 +1,6 @@
 using System;
 
-namespace Transify.ViewModel.TaxiModels
+namespace Transify.Presentation.ViewModel.TaxiModels
 {
     /// <summary>
     /// ViewModel for displaying taxi company details.

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc.Rendering;
-using Transify.Models.Entities;
-using Transify.Models.Enums;
+using Transify.Domain.Models.Entities;
+using Transify.Domain.Models.Enums;
 using System;
 using System.ComponentModel.DataAnnotations;
 

@@ -1,4 +1,4 @@
-namespace Transify.ViewModel.BusSchedul
+namespace Transify.Presentation.ViewModel.BusSchedul
 {
     /// <summary>
     /// Represents the data returned when searching for bus schedules.

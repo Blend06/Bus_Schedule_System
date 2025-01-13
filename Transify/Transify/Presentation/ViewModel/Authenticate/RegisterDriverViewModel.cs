@@ -1,4 +1,4 @@
-namespace Transify.ViewModel.Authenticate
+namespace Transify.Presentation.ViewModel.Authenticate
 {
     public class RegisterDriverViewModel
     {

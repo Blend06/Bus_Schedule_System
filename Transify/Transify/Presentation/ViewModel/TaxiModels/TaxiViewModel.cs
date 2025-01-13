@@ -1,7 +1,7 @@
 using System.Globalization;
-using Transify.Models.Enums;
+using Transify.Domain.Models.Enums;
 
-namespace Transify.ViewModel.Taxi
+namespace Transify.Presentation.ViewModel.Taxi
 {
     public class TaxiViewModel
     {

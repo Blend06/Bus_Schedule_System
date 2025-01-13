@@ -1,4 +1,4 @@
-namespace Transify.ViewModel.Bus
+namespace Transify.Presentation.ViewModel.Bus
 {/// <summary>
  /// ViewModel for displaying bus company details.
  /// </summary>

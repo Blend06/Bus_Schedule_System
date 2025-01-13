@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using Transify.Models.Entities;
+using Transify.Domain.Models.Entities;
 
 namespace Transify.ViewModel.Bus
 {  /// <summary>

@@ -1,4 +1,4 @@
-using Transify.Models.Entities;
+using Transify.Domain.Models.Entities;
 using System.Collections.Generic;
 
 namespace Transify.ViewModel.TaxiModels

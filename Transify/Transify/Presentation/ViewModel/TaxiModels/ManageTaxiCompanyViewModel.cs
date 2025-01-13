@@ -1,7 +1,7 @@
 using Transify.ViewModel.TaxiModels;
 using System.Collections.Generic;
 
-namespace Transify.ViewModel.Taxi
+namespace Transify.Presentation.ViewModel.Taxi
 {
     public class ManageTaxiCompanyViewModel
     {

@@ -1,4 +1,4 @@
-namespace Transify.ViewModel.Authenticate
+namespace Transify.Domain.ViewModel.Authenticate
 {
     public class EditDriverViewModel
     {

@@ -1,4 +1,4 @@
-namespace Transify.ViewModel.BusReservation
+namespace Transify.Presentation.ViewModel.BusReservation
 {
     /// <summary>
     /// Represents a bus reservation made by a user.

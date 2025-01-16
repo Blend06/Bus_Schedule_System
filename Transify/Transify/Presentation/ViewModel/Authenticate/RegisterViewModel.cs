@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Transify.Domain.Models.Entities;
 using Transify.Domain.Models.Enums;
 
-namespace Transify.ViewModel.Authenticate
+namespace Transify.Presentation.ViewModel.Authenticate
 {
     /// <summary>
     /// Represents the registration data required for a new user.

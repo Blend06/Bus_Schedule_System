@@ -26,7 +26,7 @@ namespace Transify.ViewModel.TaxiModels
         /// <summary>
         /// Gets or sets the list of taxis associated with the company.
         /// </summary>
-        public List<pentasharp.Models.Entities.Taxi> Taxis { get; set; }
+        public List<Transify.Domain.Models.Entities.Taxi> Taxis { get; set; }
 
         /// <summary>
         /// Gets or sets the ViewModel for adding a new taxi.

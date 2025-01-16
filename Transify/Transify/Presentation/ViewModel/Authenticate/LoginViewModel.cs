@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Transify.ViewModel.Authenticate
+namespace Transify.Presentation.ViewModel.Authenticate
 {
     /// <summary>
     /// Represents the data required for user login.

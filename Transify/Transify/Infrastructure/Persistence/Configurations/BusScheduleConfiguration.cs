@@ -4,8 +4,7 @@ using Transify.Domain.Models.Entities;
 
 namespace Transify.Infrastructure.Persistence.Configurations
 {
-    namespace pentasharp.Data.Configurations
-    {
+
         public class BusScheduleConfiguration : IEntityTypeConfiguration<BusSchedule>
         {
             public void Configure(EntityTypeBuilder<BusSchedule> builder)
@@ -77,4 +76,3 @@ namespace Transify.Infrastructure.Persistence.Configurations
             }
         }
     }
-}

@@ -6,7 +6,6 @@ namespace Transify.Infrastructure.Persistence.Data
 {
     using global::Transify.Domain.Models.Entities;
     using global::Transify.Infrastructure.Persistence.Configurations;
-    using global::Transify.Infrastructure.Persistence.Configurations.pentasharp.Data.Configurations;
     using Microsoft.EntityFrameworkCore;
 
     namespace Transify.Infrastructure.Persistence.Data

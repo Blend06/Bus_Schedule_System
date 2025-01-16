@@ -1,6 +1,6 @@
 using Transify.Domain.Models.Enums;
 
-namespace Transify.ViewModel.Authenticate
+namespace Transify.Presentation.ViewModel.Authenticate
 {
     /// <summary>
     /// Represents the data required to edit an existing user's information.

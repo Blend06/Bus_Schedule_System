@@ -492,3 +492,5 @@ C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\T
 C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\ref\Transify.dll
 C:\Users\Plus Computers\Desktop\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\Transify.RazorAssemblyInfo.cache
 C:\Users\Plus Computers\Desktop\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\Transify.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\Transify.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\Transify.RazorAssemblyInfo.cs

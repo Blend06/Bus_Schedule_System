@@ -1,7 +1,7 @@
 using Transify.Domain.Models.Entities;
 using System.Collections.Generic;
 
-namespace Transify.ViewModel.Bus
+namespace Transify.Presentation.ViewModel.Bus
 {
 	/// <summary>
 	/// ViewModel for adding a new bus company and associated buses.

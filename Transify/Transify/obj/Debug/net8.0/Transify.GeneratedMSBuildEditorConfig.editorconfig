@@ -17,127 +17,127 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Transify
 build_property.RootNamespace = Transify
-build_property.ProjectDir = C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\
+build_property.ProjectDir = C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify
+build_property.MSBuildProjectDirectory = C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/Delete.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEF1dGhlbnRpY2F0ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/Edit.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEF1dGhlbnRpY2F0ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/Login.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEF1dGhlbnRpY2F0ZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/Register.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEF1dGhlbnRpY2F0ZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/UserList.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Authenticate/UserList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEF1dGhlbnRpY2F0ZVxVc2VyTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Bus/BusReservationManagment.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Bus/BusReservationManagment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEJ1c1xCdXNSZXNlcnZhdGlvbk1hbmFnbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Bus/BusScheduleManagment.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Bus/BusScheduleManagment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEJ1c1xCdXNTY2hlZHVsZU1hbmFnbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Bus/BusSchedules.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Bus/BusSchedules.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEJ1c1xCdXNTY2hlZHVsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Dashboard/Bus.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Dashboard/Bus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXERhc2hib2FyZFxCdXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Dashboard/Dashboard.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Dashboard/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXERhc2hib2FyZFxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Dashboard/Taxi.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Dashboard/Taxi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXERhc2hib2FyZFxUYXhpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Home/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEhvbWVcaW5kZXguY3NodG1s
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Home/Services.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Home/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEhvbWVcU2VydmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Home/UserActivity.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Home/UserActivity.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXEhvbWVcVXNlckFjdGl2aXR5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/PrivacyPolicy/index.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/PrivacyPolicy/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFByaXZhY3lQb2xpY3lcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Reviews/SubmitReview.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Reviews/SubmitReview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFJldmlld3NcU3VibWl0UmV2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Shared/Error.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Shared/_DashboardLayout.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Shared/_DashboardLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFNoYXJlZFxfRGFzaGJvYXJkTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiBooking.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiBooking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFRheGlcVGF4aUJvb2tpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiBookingManagment.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiBookingManagment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFRheGlcVGF4aUJvb2tpbmdNYW5hZ21lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiDriver.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiDriver.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFRheGlcVGF4aURyaXZlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiReservation.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiReservation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFRheGlcVGF4aVJlc2VydmF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiReservationManagment.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/Taxi/TaxiReservationManagment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFRheGlcVGF4aVJlc2VydmF0aW9uTWFuYWdtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/UserActivity/MyBooking.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/UserActivity/MyBooking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFVzZXJBY3Rpdml0eVxNeUJvb2tpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/UserActivity/MyBusSeats.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/UserActivity/MyBusSeats.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFVzZXJBY3Rpdml0eVxNeUJ1c1NlYXRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/UserActivity/MyReservation.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/UserActivity/MyReservation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXFVzZXJBY3Rpdml0eVxNeVJlc2VydmF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/_ViewImports.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Desktop/Bus_Schedule_System/Transify/Transify/Presentation/Views/_ViewStart.cshtml]
+[C:/Users/admin/Desktop/Bus_Schedule_System/Bus_Schedule_System/Transify/Transify/Presentation/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UHJlc2VudGF0aW9uXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

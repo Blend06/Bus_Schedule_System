@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Transify.Domain.Models.Entities;
 using Transify.Domain.Models.Enums;
 
-namespace Transify.ViewModel.BusReservation
+namespace Transify.Presentation.ViewModel.BusReservation
 {
     /// <summary>
     /// Represents the data required to create a new bus reservation.

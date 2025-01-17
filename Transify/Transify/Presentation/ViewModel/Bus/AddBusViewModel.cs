@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using Transify.Domain.Models.Entities;
 
-namespace Transify.ViewModel.Bus
+namespace Transify.Presentation.ViewModel.Bus
 {  /// <summary>
    /// ViewModel for adding a new bus.
    /// </summary>

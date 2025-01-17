@@ -3,7 +3,7 @@ using Transify.Domain.Models.Entities;
 using Transify.Domain.Models.Enums;
 using System.ComponentModel.DataAnnotations;
 
-namespace Transify.ViewModel.Bus
+namespace Transify.Presentation.ViewModel.Bus
 {
     /// <summary>
     /// ViewModel for editing bus details.

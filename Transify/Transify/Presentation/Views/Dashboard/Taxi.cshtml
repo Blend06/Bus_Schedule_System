@@ -3,7 +3,7 @@
     var isAdmin = ViewContext.HttpContext.Session.GetString("IsAdmin") == "true";
     var role = ViewContext.HttpContext.Session.GetString("UserRole");
 
-    Layout = "_DashboardLayout";
+    Layout = "~/Presentation/Views/Shared/_DashboardLayout";
     ViewData["Title"] = "Manage Taxi Companies and Taxis";
 }
 

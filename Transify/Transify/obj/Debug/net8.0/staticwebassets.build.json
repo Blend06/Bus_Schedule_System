@@ -1,11 +1,50 @@
 {
   "Version": 1,
-  "Hash": "dG58mo1FDU1hXmKlQSHdzekDd8m8BFvkcMhfUNYLRyA=",
+  "Hash": "5FlJdCftKR2dQYheCf6dFGLfXgJcPWJ0UCmBzZUw2FY=",
   "Source": "Transify",
   "BasePath": "_content/Transify",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Transify.styles.css",
+      "SourceId": "Transify",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Transify",
+      "RelativePath": "Transify.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Transify.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Transify.bundle.scp.css",
+      "SourceId": "Transify",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Transify",
+      "RelativePath": "Transify.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Transify.bundle.scp.css"
+    }
+  ]
 }

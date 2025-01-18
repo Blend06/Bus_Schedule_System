@@ -20,17 +20,17 @@ namespace Transify.Presentation.Controllers
         {
             var reviews = await _context.UserReviews.AsNoTracking().ToListAsync();
 
-            return View(reviews);
+            return View("~/Presentation/Views/Home/Index.cshtml", reviews);
         }
 
         public IActionResult Services()
         {
-            return View();
+            return View("~/Presentation/Views/Home/Services.cshtml");
         }
 
         public IActionResult UserActivity()
         {
-            return View();
+            return View("~/Presentation/Views/Home/UserActivity.cshtml");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

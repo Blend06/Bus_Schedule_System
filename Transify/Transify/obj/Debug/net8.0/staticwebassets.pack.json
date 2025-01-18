@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Transify.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Transify.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Transify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Transify.props",
+      "PackagePath": "build\\Transify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Transify.props",
+      "PackagePath": "buildMultiTargeting\\Transify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Transify.props",
+      "PackagePath": "buildTransitive\\Transify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

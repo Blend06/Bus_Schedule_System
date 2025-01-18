@@ -1,0 +1,126 @@
+/* _content/Transify/Presentation/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-zwz8ykuvna] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-zwz8ykuvna] {
+  color: #0077cc;
+}
+
+.btn-primary[b-zwz8ykuvna] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-zwz8ykuvna], .nav-pills .show > .nav-link[b-zwz8ykuvna] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-zwz8ykuvna] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-zwz8ykuvna] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-zwz8ykuvna] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-zwz8ykuvna] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-zwz8ykuvna] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+.card-body[b-zwz8ykuvna] {
+    padding: 2rem;
+}
+
+.card-title[b-zwz8ykuvna] {
+    font-size: 1.75rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.card-text[b-zwz8ykuvna] {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+}
+
+.btn[b-zwz8ykuvna] {
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover[b-zwz8ykuvna] {
+    background-color: #0056b3;
+}
+
+.btn-secondary:hover[b-zwz8ykuvna] {
+    background-color: #6c757d;
+}
+section[b-zwz8ykuvna] {
+    width: 100%;
+}
+
+.container-fluid[b-zwz8ykuvna] {
+    padding-left: 0;
+    padding-right: 0;
+}
+.btn-custom[b-zwz8ykuvna] {
+    border-radius: 30px;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+    .btn-custom:hover[b-zwz8ykuvna] {
+        background-color: #0056b3;
+        color: #ffffff;
+    }
+
+    .btn-custom:focus[b-zwz8ykuvna],
+    .btn-custom:active[b-zwz8ykuvna] {
+        outline: none;
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+    }
+
+    .btn-custom:active[b-zwz8ykuvna] {
+        transform: translateY(1px);
+    }
+html[b-zwz8ykuvna], body[b-zwz8ykuvna] {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; /* Prevent scrollbars */
+}
+
+.full-height[b-zwz8ykuvna] {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
+}
+
+main[b-zwz8ykuvna] {
+    flex: 1; /* Allows main content to take the remaining space */
+    display: flex;
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+}
+

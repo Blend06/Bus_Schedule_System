@@ -662,3 +662,8 @@ C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify
 C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\Transify.pdb
 C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\Transify.genruntimeconfig.cache
 C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\ref\Transify.dll
+C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\bin\Debug\net8.0\Transify.staticwebassets.runtime.json
+C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\scopedcss\Presentation\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\scopedcss\projectbundle\Transify.bundle.scp.css

@@ -3,7 +3,7 @@ using System.Diagnostics;
 using Transify.Domain.Models;
 using Transify.Presentation.Filters;
 using AutoMapper;
-using Transify.Infrastructure.Persistence.Data.Transify.Infrastructure.Persistence.Data;
+using Transify.Infrastructure.Data;
 using Transify.Domain.Interfaces;
 using Transify.Presentation.ViewModel.Bus;
 using Transify.Presentation.ViewModel.TaxiRequest;
@@ -14,7 +14,7 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Transify.Presentation.ViewModel.Dashboard;
 
-namespace WebApplication1.Controllers
+namespace Transify.Presentation.Controllers
 {
     [ServiceFilter(typeof(AdminBaseFilter))]
     [Route("Dashboard")]

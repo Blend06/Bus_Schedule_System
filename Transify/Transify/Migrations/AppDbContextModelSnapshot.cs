@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Transify.Infrastructure.Persistence.Data.Transify.Infrastructure.Persistence.Data;
+using Transify.Infrastructure.Data;
 
 #nullable disable
 
@@ -47,7 +47,7 @@ namespace Transify.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Reviews");
+                    b.ToTable("Reviews", (string)null);
 
                     b.HasDiscriminator().HasValue("BaseReview");
 
@@ -86,7 +86,7 @@ namespace Transify.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("BusCompanies");
+                    b.ToTable("BusCompanies", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.BusReservations", b =>
@@ -138,7 +138,7 @@ namespace Transify.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("BusReservations");
+                    b.ToTable("BusReservations", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.BusRoutes", b =>
@@ -175,7 +175,7 @@ namespace Transify.Migrations
 
                     b.HasIndex("BusCompanyId");
 
-                    b.ToTable("BusRoutes");
+                    b.ToTable("BusRoutes", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.BusSchedule", b =>
@@ -227,7 +227,7 @@ namespace Transify.Migrations
 
                     b.HasIndex("RouteId");
 
-                    b.ToTable("BusSchedules");
+                    b.ToTable("BusSchedules", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.Buses", b =>
@@ -263,7 +263,7 @@ namespace Transify.Migrations
 
                     b.HasIndex("BusCompanyId");
 
-                    b.ToTable("Buses");
+                    b.ToTable("Buses", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.Taxi", b =>
@@ -312,7 +312,7 @@ namespace Transify.Migrations
 
                     b.HasIndex("TaxiCompanyId");
 
-                    b.ToTable("Taxis");
+                    b.ToTable("Taxis", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.TaxiBookings", b =>
@@ -382,7 +382,7 @@ namespace Transify.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("TaxiBookings");
+                    b.ToTable("TaxiBookings", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.TaxiCompany", b =>
@@ -424,7 +424,7 @@ namespace Transify.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("TaxiCompanies");
+                    b.ToTable("TaxiCompanies", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.TaxiReservations", b =>
@@ -491,7 +491,7 @@ namespace Transify.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("TaxiReservations");
+                    b.ToTable("TaxiReservations", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.User", b =>
@@ -550,7 +550,7 @@ namespace Transify.Migrations
                     b.HasIndex("Email")
                         .IsUnique();
 
-                    b.ToTable("Users");
+                    b.ToTable("Users", (string)null);
                 });
 
             modelBuilder.Entity("Transify.Domain.Models.Entities.UserReview", b =>

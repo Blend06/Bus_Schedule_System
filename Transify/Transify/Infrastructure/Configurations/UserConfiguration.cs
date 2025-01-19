@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Transify.Domain.Models.Entities;
 using Transify.Domain.Models.Enums;
 
-namespace Transify.Infrastructure.Persistence.Configurations
+namespace Transify.Infrastructure.Configurations
 {
     public class UserConfiguration : IEntityTypeConfiguration<User>
     {

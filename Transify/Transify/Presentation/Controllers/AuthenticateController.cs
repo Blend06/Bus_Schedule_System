@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Cryptography;
-using Transify.Infrastructure.Persistence.Data.Transify.Infrastructure.Persistence.Data;
+using Transify.Infrastructure.Data;
 using Transify.Domain.Models.Entities;
 using System.Text;
 using Transify.Presentation.ViewModel.Authenticate;

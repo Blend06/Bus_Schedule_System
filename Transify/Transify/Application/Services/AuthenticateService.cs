@@ -1,5 +1,4 @@
-﻿using Transify.Infrastructure.Persistence.Data.Transify.Infrastructure.Persistence.Data;
-using Transify.Domain.Interfaces;
+﻿using Transify.Domain.Interfaces;
 using Transify.Domain.Models.Entities;
 using Transify.Presentation.ViewModel.Authenticate;
 using Transify.Domain.Models.Enums;
@@ -10,6 +9,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using Transify.Infrastructure.Data;
 
 namespace Transify.Application.Services
 {

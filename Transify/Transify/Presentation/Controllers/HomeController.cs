@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Transify.Domain.Models;
 using System.Diagnostics;
-using Transify.Infrastructure.Persistence.Data.Transify.Infrastructure.Persistence.Data;
+using Transify.Infrastructure.Data;
 
 namespace Transify.Presentation.Controllers
 {

@@ -5,6 +5,13 @@
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="Infrastructure\ExternalServices\**" />
+	  <Content Remove="Infrastructure\ExternalServices\**" />
+	  <EmbeddedResource Remove="Infrastructure\ExternalServices\**" />
+	  <None Remove="Infrastructure\ExternalServices\**" />
+	</ItemGroup>
   <ItemGroup>
     <Content Include="Presentation\wwwroot\favicon.ico" />
     <Content Include="Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css" />
@@ -64,17 +71,17 @@
     <Content Include="Presentation\wwwroot\lib\jquery\dist\jquery.min.js" />
     <Content Include="Presentation\wwwroot\lib\jquery\dist\jquery.min.map" />
     <Content Include="Presentation\wwwroot\lib\jquery\LICENSE.txt" />
-	  <Content Include="Infrastructure\Persistence\Data\AppDbContext.cs" />
+	
+
   </ItemGroup>
 
-  <ItemGroup>
+	<ItemGroup>
     <Folder Include="Application\DTOs\" />
     <Folder Include="Application\ViewModel\" />
-    <Folder Include="Application\Services\" />
     <Folder Include="Domain\Models\Utilities\" />
-    <Folder Include="Infrastructure\ExternalServices\" />
-    <Folder Include="Infrastructure\Persistence\Repository\" />
+		<Folder Include="Infrastructure\Data\" />
     <Folder Include="Migrations\" />
+    <Folder Include="Properties\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Transify.Domain.Models.Entities;
 
-namespace Transify.Infrastructure.Persistence.Configurations
+namespace Transify.Infrastructure.Configurations
 {
     public class BusReservationsConfiguration : IEntityTypeConfiguration<BusReservations>
     {

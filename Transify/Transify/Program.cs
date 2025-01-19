@@ -3,12 +3,11 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
-using Transify.Infrastructure.Persistence.Data;
 using Transify.Application.Services;
 using Transify.Domain.Interfaces;
 using Transify.Domain.Models.DTOs;
 using Transify.Presentation.Filters;
-using Transify.Infrastructure.Persistence.Data.Transify.Infrastructure.Persistence.Data;
+using Transify.Infrastructure.Data;
 
 namespace Transify
 {
@@ -29,12 +28,14 @@ namespace Transify
             // Add controllers with views to the service collection.
             builder.Services.AddControllersWithViews();
 
-            // Register AutoMapper for mapping DTOs.
             builder.Services.AddAutoMapper(typeof(AdminProfile));
+            builder.Services.AddAutoMapper(typeof(TaxiReservationProfile));
+            builder.Services.AddScoped<IAuthenticateService, AuthenticateService>();
+
 
             // Add scoped services for authentication.
             builder.Services.AddScoped<IAuthenticateService, AuthenticateService>();
-
+            builder.Services.AddScoped<IReviewService, ReviewService>();
             // Configure the DbContext with the connection string.
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

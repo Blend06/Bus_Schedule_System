@@ -2,9 +2,9 @@
 using System.Text;
 using AutoMapper;
 using Microsoft.Extensions.Options;
-using Transify.Infrastructure.Persistence.Data.Transify.Infrastructure.Persistence.Data;
 using Transify.Domain.Models.DTOs;
 using Transify.Domain.Models.Entities;
+using Transify.Infrastructure.Data;
 
 namespace Transify.Application.Services
 {

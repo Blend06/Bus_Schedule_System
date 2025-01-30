@@ -1,0 +1,5 @@
+@{
+    Layout = ViewContext.RouteData.Values["controller"].ToString() == "Dashboard"
+         ? "~/Views/Shared/_DashboardLayout.cshtml"
+        : "~/Views/Shared/_Layout.cshtml";
+}

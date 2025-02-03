@@ -3,7 +3,7 @@ using Transify.Models.Entities;
 using Transify.ViewModel.TaxiModels;
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
-using Transify.ViewModel.Taxi;
+//using Transify.ViewModel.Taxi;
 using Transify.Models.Enums;
 using Transify.Models.TaxiRequest;
 using Transify.Interfaces;
@@ -32,11 +32,11 @@ namespace Transify.Services
                 throw new UnauthorizedAccessException("No user is logged in or no associated company found.");
             }
 
-            var taxis = _context.Taxis
+            var taxis = await _context.Taxis
                 .Include(t => t.TaxiCompany)
                 .Include(t => t.Driver)
                 .Where(t => t.TaxiCompanyId == companyId.Value && !t.IsDeleted)
-                .ToList();
+                .ToListAsync();
 
             var viewModel = taxis.Select(t => new TaxiRequest
             {
@@ -46,15 +46,14 @@ namespace Transify.Services
                 CompanyName = t.TaxiCompany.CompanyName,
                 DriverId = t.DriverId,
                 DriverName = t.DriverId.HasValue
-                ? _context.Users
-                    .Where(u => u.UserId == t.DriverId.Value)
-                    .Select(u => $"{u.FirstName} {u.LastName}")
-                    .FirstOrDefault()
-                : "No Driver Assigned"
-
+                    ? _context.Users
+                        .Where(u => u.UserId == t.DriverId.Value)
+                        .Select(u => $"{u.FirstName} {u.LastName}")
+                        .FirstOrDefault()
+                    : "No Driver Assigned"
             }).ToList();
 
-            return (viewModel);
+            return viewModel;
         }
 
         public async Task<Taxi> AddTaxiAsync(AddTaxiRequest model)

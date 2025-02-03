@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Transify.Data;
 using Transify.Interfaces;
-using pentTransifyasharp.Models.Enums;
+using Transify.Models.Enums;
 using Transify.Models.Utilities;
 using System.Threading.Tasks;
 

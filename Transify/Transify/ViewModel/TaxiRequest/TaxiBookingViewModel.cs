@@ -1,4 +1,4 @@
-﻿namespace Transify.ViewModel.TaxiRequest
+﻿namespace Transify.Models.TaxiRequest
 {
     /// <summary>
     /// Represents the detailed view model for a taxi booking.

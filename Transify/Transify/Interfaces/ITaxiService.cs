@@ -1,8 +1,5 @@
-﻿using Transify.ViewModel.TaxiRequest;
-using Transify.ViewModel.TaxiModels;
-using Transify.Models.Entities;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+﻿using Transify.Models.Entities;
+using Transify.Models.TaxiRequest;
 //using Transify.Models.TaxiRequest;
 
 namespace Transify.Services

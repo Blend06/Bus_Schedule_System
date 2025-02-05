@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using Transify.Models.Entities;
-using Transify.ViewModel.TaxiRequest;
+using Transify.Models.TaxiRequest;
 
 namespace Transify.Mappings
 {

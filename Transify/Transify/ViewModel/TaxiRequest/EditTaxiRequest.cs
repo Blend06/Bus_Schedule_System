@@ -1,6 +1,6 @@
 ﻿using Transify.Models.Entities;
 
-namespace Transify.ViewModel.TaxiRequest
+namespace Transify.Models.TaxiRequest
 {
     /// <summary>
     /// Represents the data required to edit a taxi's details.

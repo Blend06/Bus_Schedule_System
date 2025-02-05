@@ -1,6 +1,6 @@
 ﻿using Transify.ViewModel.TaxiModels;
 
-namespace Transify.ViewModel.TaxiRequest
+namespace Transify.Models.TaxiRequest
 {
     /// <summary>
     /// Represents the data required to manage taxi companies.

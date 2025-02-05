@@ -1,7 +1,7 @@
-﻿using System;
-using Transify.Models.Enums;
+﻿using Transify.Models.Enums;
+using System;
 
-namespace Transify.ViewModel.TaxiRequest
+namespace Transify.Models.TaxiRequest
 {
     /// <summary>
     /// Represents a request to create a taxi booking.

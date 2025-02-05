@@ -1,7 +1,7 @@
 ﻿using Transify.Models.Entities;
 using Transify.ViewModel.TaxiModels;
 
-namespace Transify.ViewModel.TaxiRequest
+namespace Transify.Models.TaxiRequest
 {
     public class AddTaxiCompanyRequest
     {
@@ -23,7 +23,7 @@ namespace Transify.ViewModel.TaxiRequest
         /// <summary>
         /// A list of taxis associated with the company.
         /// </summary>
-        public List<Taxi> Taxis { get; set; }
+        public List<Transify.Models.Entities.Taxi> Taxis { get; set; }
 
         /// <summary>
         /// The ViewModel for adding a new taxi.

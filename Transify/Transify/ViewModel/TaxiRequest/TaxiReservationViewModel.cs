@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Transify.ViewModel.TaxiRequest
+namespace Transify.Models.TaxiRequest
 {
     /// <summary>
     /// Represents the view model for creating a new taxi reservation.

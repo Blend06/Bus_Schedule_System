@@ -3,10 +3,9 @@ using Transify.Models.Entities;
 using Transify.ViewModel.TaxiModels;
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
-//using Transify.ViewModel.Taxi;
 using Transify.Models.Enums;
-using Transify.Models.TaxiRequest;
 using Transify.Interfaces;
+using Transify.Models.TaxiRequest;
 
 namespace Transify.Services
 {
@@ -16,21 +15,19 @@ namespace Transify.Services
         private readonly IMapper _mapper;
         private readonly IAuthenticateService _authService;
 
-        public TaxiService(AppDbContext context, IMapper mapper,IAuthenticateService service)
+        public TaxiService(AppDbContext context, IMapper mapper, IAuthenticateService service)
         {
             _context = context;
             _mapper = mapper;
             _authService = service;
         }
 
-        public async Task<List<TaxiRequest>> GetTaxisAsync()
+        public async Task<List<Models.TaxiRequest.TaxiRequest>> GetTaxisAsync()
         {
             var companyId = _authService.GetCurrentCompanyId();
 
             if (!companyId.HasValue)
-            {
                 throw new UnauthorizedAccessException("No user is logged in or no associated company found.");
-            }
 
             var taxis = await _context.Taxis
                 .Include(t => t.TaxiCompany)
@@ -38,7 +35,7 @@ namespace Transify.Services
                 .Where(t => t.TaxiCompanyId == companyId.Value && !t.IsDeleted)
                 .ToListAsync();
 
-            var viewModel = taxis.Select(t => new TaxiRequest
+            return taxis.Select(t => new Models.TaxiRequest.TaxiRequest
             {
                 TaxiId = t.TaxiId,
                 LicensePlate = t.LicensePlate,
@@ -46,30 +43,20 @@ namespace Transify.Services
                 CompanyName = t.TaxiCompany.CompanyName,
                 DriverId = t.DriverId,
                 DriverName = t.DriverId.HasValue
-                    ? _context.Users
-                        .Where(u => u.UserId == t.DriverId.Value)
-                        .Select(u => $"{u.FirstName} {u.LastName}")
-                        .FirstOrDefault()
+                    ? $"{t.Driver.FirstName} {t.Driver.LastName}"
                     : "No Driver Assigned"
             }).ToList();
-
-            return viewModel;
         }
 
-        public async Task<Taxi> AddTaxiAsync(AddTaxiRequest model)
+        public async Task<Taxi> AddTaxiAsync(Models.TaxiRequest.AddTaxiRequest model)
         {
-            if (model.DriverId == null)
-            {
-                Console.WriteLine("No driver assigned to the taxi.");
-            }
-
             var taxi = _mapper.Map<Taxi>(model);
             _context.Taxis.Add(taxi);
             await _context.SaveChangesAsync();
             return taxi;
         }
 
-        public async Task<bool> EditTaxiAsync(int id, EditTaxiRequest model)
+        public async Task<bool> EditTaxiAsync(int id, Models.TaxiRequest.EditTaxiRequest model)
         {
             var taxi = await _context.Taxis.FindAsync(id);
             if (taxi == null)
@@ -84,63 +71,59 @@ namespace Transify.Services
             return true;
         }
 
-        public async Task<bool> DeleteTaxiAsync(int id)
+        public async Task<List<Models.TaxiRequest.DriverRequest>> GetAvailableDriversAsync(int? taxiId = null)
         {
-            var taxi = await _context.Taxis.FindAsync(id);
-            if (taxi == null)
-                return false;
-
-            _context.Taxis.Remove(taxi);
-            await _context.SaveChangesAsync();
-            return true;
-        }
-
-        public async Task<List<DriverRequest>> GetAvailableDriversAsync(int? taxiId = null)
-        {
-
             var companyId = _authService.GetCurrentCompanyId();
             if (!companyId.HasValue)
-            {
                 throw new UnauthorizedAccessException("No user is logged in or no associated company found.");
-            }
 
             var assignedDriverIds = await _context.Taxis
                 .Where(t => t.TaxiCompanyId == companyId.Value && !t.IsDeleted && (taxiId == null || t.TaxiId != taxiId))
                 .Select(t => t.DriverId)
                 .ToListAsync();
 
-            var drivers = await (from u in _context.Users
-                                 join c in _context.TaxiCompanies on u.CompanyId equals c.TaxiCompanyId
-                                 where u.CompanyId == companyId
-                                       && u.Role == UserRole.Driver
-                                       && !u.IsDeleted
-                                       && !assignedDriverIds.Contains(u.UserId)
-                                 select new DriverRequest
-                                 {
-                                     UserId = u.UserId,
-                                     FirstName = u.FirstName,
-                                     LastName = u.LastName,
-                                     Email = u.Email,
-                                     CompanyName = c.CompanyName
-                                 }).ToListAsync();
+            var drivers = await _context.Users
+                .Where(u => u.CompanyId == companyId && !assignedDriverIds.Contains(u.UserId) && !u.IsDeleted && u.Role == UserRole.Driver)
+                .Select(u => new Models.TaxiRequest.DriverRequest
+                {
+                    UserId = u.UserId,
+                    FirstName = u.FirstName,
+                    LastName = u.LastName,
+                    Email = u.Email
+                })
+                .ToListAsync();
 
             return drivers;
         }
 
+        public Task<bool> DeleteTaxiAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public TaxiCompany GetCompanyDetails()
         {
-            var companyId = _authService.GetCurrentCompanyId();
+            throw new NotImplementedException();
+        }
 
-            if (!companyId.HasValue)
-            {
-                throw new UnauthorizedAccessException("No user is logged in or no associated company found.");
-            }
+        Task<List<TaxiRequest>> ITaxiService.GetTaxisAsync()
+        {
+            throw new NotImplementedException();
+        }
 
-            var companyDetails = _context.TaxiCompanies
-                .Include(tc => tc.User)
-                .FirstOrDefault(tc => tc.TaxiCompanyId == companyId.Value);
+        Task<Taxi> ITaxiService.AddTaxiAsync(AddTaxiRequest model)
+        {
+            throw new NotImplementedException();
+        }
 
-            return companyDetails;
+        Task<bool> ITaxiService.EditTaxiAsync(int id, EditTaxiRequest model)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<List<DriverRequest>> ITaxiService.GetAvailableDriversAsync(int? taxiId)
+        {
+            throw new NotImplementedException();
         }
     }
 }

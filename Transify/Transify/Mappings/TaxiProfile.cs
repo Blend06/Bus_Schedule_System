@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using Transify.Models.Entities;
-using Transify.ViewModel.TaxiRequest;
+using Transify.Models.TaxiRequest;
 
 namespace Transify.Mappings
 {
@@ -8,7 +8,7 @@ namespace Transify.Mappings
     {
         public TaxiProfile()
         {
-            CreateMap<Taxi, AddTaxiRequest>()
+            CreateMap<Taxi, Models.TaxiRequest.AddTaxiRequest>()
                 .ForMember(dest => dest.TaxiCompanyId, opt => opt.MapFrom(src => src.TaxiCompanyId))
                 .ReverseMap()
                 .ForMember(dest => dest.TaxiId, opt => opt.Ignore())

@@ -1,8 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
-using Transify.Models.Entities;
+﻿using Transify.Models.Entities;
 using Transify.Models.Enums;
+using System.ComponentModel.DataAnnotations;
 
-namespace Transify.ViewModel.TaxiRequest
+namespace Transify.Models.TaxiRequest
 {
     /// <summary>
     /// Represents the data required to add a new taxi to the system.

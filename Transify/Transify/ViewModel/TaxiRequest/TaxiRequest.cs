@@ -1,6 +1,6 @@
 ﻿using Transify.Models.Enums;
 
-namespace Transify.ViewModel.TaxiRequest
+namespace Transify.Models.TaxiRequest
 {
     /// <summary>
     /// Represents a DTO for a taxi, including its details.

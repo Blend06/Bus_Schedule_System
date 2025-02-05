@@ -1,9 +1,9 @@
-﻿using System.Collections.Generic;
-using System.Threading.Tasks;
-using Transify.ViewModel.TaxiRequest;
+﻿using Transify.Models.TaxiRequest;
 using Transify.Models.Entities;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
-namespace Transify.Interfaces
+namespace Transify.Services
 {
     /// <summary>
     /// Provides functionality for managing taxi companies in the application.

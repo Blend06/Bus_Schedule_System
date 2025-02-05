@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using Transify.Models;
+using Transify.Filters;
 using AutoMapper;
 using Transify.Data;
 using Transify.ViewModel.Bus;
-using Transify.ViewModel.TaxiRequest;
+using Transify.Models.TaxiRequest;
 using Transify.Services;
 using Transify.Models.Enums;
 using Transify.Models.Utilities;
@@ -13,6 +14,9 @@ using Microsoft.EntityFrameworkCore;
 using Transify.ViewModel.Dashboard;
 using Transify.Filters;
 using Transify.Interfaces;
+using Transify.Models.TaxiRequest;
+using Transify.Services;
+using Transify.ViewModel.Bus;
 
 namespace Transify.Controllers
 {

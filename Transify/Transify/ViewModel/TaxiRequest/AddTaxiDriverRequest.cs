@@ -1,4 +1,4 @@
-﻿namespace Transify.ViewModel.TaxiRequest
+﻿namespace Transify.Models.TaxiRequest
 {
     /// <summary>
     /// Represents the data required to add a taxi driver to the system.

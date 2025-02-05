@@ -1,4 +1,4 @@
-﻿namespace Transify.ViewModel.TaxiRequest
+﻿namespace Transify.Models.TaxiRequest
 {
     /// <summary>
     /// Represents the data for a driver in the system.

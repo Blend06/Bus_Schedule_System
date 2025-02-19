@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\businessbuscompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\businessbuscompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\buscompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\buscompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\adminsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\adminsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -219,54 +243,6 @@
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\configurations\\taxireservationsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\configurations\\taxireservationsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\configurations\\taxicompanyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\configurations\\taxicompanyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\configurations\\taxibookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\configurations\\taxibookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\configurations\\busroutesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\configurations\\busroutesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\configurations\\busscheduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\configurations\\busscheduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\configurations\\busreservationsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\configurations\\busreservationsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\configurations\\busesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\configurations\\busesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\configurations\\buscompanyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\configurations\\buscompanyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -457,6 +433,42 @@
     {
       "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\UserConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transify\\Configurations\\UserConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiReservationsConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transify\\Configurations\\TaxiReservationsConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiCompanyConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transify\\Configurations\\TaxiCompanyConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiBookingConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transify\\Configurations\\TaxiBookingConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusRoutesConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transify\\Configurations\\BusRoutesConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusScheduleConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transify\\Configurations\\BusScheduleConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusReservationsConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transify\\Configurations\\BusReservationsConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusesConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transify\\Configurations\\BusesConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusCompanyConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Transify\\Configurations\\BusCompanyConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -479,873 +491,63 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         },
         {
           "DockedWidth": 310,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "adminsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\adminsettings.json",
-              "RelativeDocumentMoniker": "Transify\\adminsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\adminsettings.json",
-              "RelativeToolTip": "Transify\\adminsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-30T00:19:25.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaxiDriver.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiDriver\\TaxiDriver.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\TaxiDriver\\TaxiDriver.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiDriver\\TaxiDriver.cshtml",
-              "RelativeToolTip": "Transify\\Views\\TaxiDriver\\TaxiDriver.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAAAEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T00:14:08.525Z",
+              "DocumentIndex": 3,
+              "Title": "BusinessBusCompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\BusinessBusCompanyController.cs",
+              "RelativeDocumentMoniker": "Transify\\Controllers\\BusinessBusCompanyController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\BusinessBusCompanyController.cs",
+              "RelativeToolTip": "Transify\\Controllers\\BusinessBusCompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:59:04.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Transify\\Views\\_ViewStart.cshtml",
+              "Title": "BusController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\BusController.cs",
+              "RelativeDocumentMoniker": "Transify\\Controllers\\BusController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\BusController.cs",
+              "RelativeToolTip": "Transify\\Controllers\\BusController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:31:22.398Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:59:00.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TaxiBooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Taxi\\TaxiBooking.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Taxi\\TaxiBooking.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Taxi\\TaxiBooking.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Taxi\\TaxiBooking.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:59.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Program.cs",
-              "RelativeDocumentMoniker": "Transify\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Program.cs",
-              "RelativeToolTip": "Transify\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Title": "BusCompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\BusCompanyController.cs",
+              "RelativeDocumentMoniker": "Transify\\Controllers\\BusCompanyController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\BusCompanyController.cs",
+              "RelativeToolTip": "Transify\\Controllers\\BusCompanyController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T00:02:06.485Z",
+              "WhenOpened": "2025-02-19T19:57:49.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaxiBookingManagement.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiManagement\\TaxiBookingManagement.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\TaxiManagement\\TaxiBookingManagement.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiManagement\\TaxiBookingManagement.cshtml",
-              "RelativeToolTip": "Transify\\Views\\TaxiManagement\\TaxiBookingManagement.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T00:15:11.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaxiReservation.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Taxi\\TaxiReservation.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Taxi\\TaxiReservation.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Taxi\\TaxiReservation.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Taxi\\TaxiReservation.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:31:05.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Transify\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:31:12.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TaxiReservationManagement.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiManagement\\TaxiReservationManagement.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\TaxiManagement\\TaxiReservationManagement.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiManagement\\TaxiReservationManagement.cshtml",
-              "RelativeToolTip": "Transify\\Views\\TaxiManagement\\TaxiReservationManagement.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T00:14:55.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:51.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:54.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:48.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_DashboardLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_DashboardLayout.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Shared\\_DashboardLayout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_DashboardLayout.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Shared\\_DashboardLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:46.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SubmitReview.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Reviews\\SubmitReview.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Reviews\\SubmitReview.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Reviews\\SubmitReview.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Reviews\\SubmitReview.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:41.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\PrivacyPolicy\\index.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\PrivacyPolicy\\index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\PrivacyPolicy\\index.cshtml",
-              "RelativeToolTip": "Transify\\Views\\PrivacyPolicy\\index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:37.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserActivity.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\UserActivity.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Home\\UserActivity.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\UserActivity.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Home\\UserActivity.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:33.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Services.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\Services.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Home\\Services.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\Services.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Home\\Services.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:31.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:28.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Taxi.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Taxi.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Dashboard\\Taxi.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Taxi.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Dashboard\\Taxi.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:23.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Dashboard\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Dashboard.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Dashboard\\Dashboard.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:18.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Bus.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Bus.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Dashboard\\Bus.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Bus.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Dashboard\\Bus.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:14.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BusScheduleManagement.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\BusSchedule\\BusScheduleManagement.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\BusSchedule\\BusScheduleManagement.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\BusSchedule\\BusScheduleManagement.cshtml",
-              "RelativeToolTip": "Transify\\Views\\BusSchedule\\BusScheduleManagement.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T00:11:16.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BusReservationManagement.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\BusSchedule\\BusReservationManagement.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\BusSchedule\\BusReservationManagement.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\BusSchedule\\BusReservationManagement.cshtml",
-              "RelativeToolTip": "Transify\\Views\\BusSchedule\\BusReservationManagement.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T00:11:13.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Register.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\Register.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Register.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Authenticate\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:29:25.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserList.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\UserList.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\UserList.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\UserList.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Authenticate\\UserList.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:29:30.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Login.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\Login.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Login.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Authenticate\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:29:22.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Edit.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Authenticate\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:29:17.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Delete.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Authenticate\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:29:11.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AuthenticateService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Services\\AuthenticateService.cs",
-              "RelativeDocumentMoniker": "Transify\\Services\\AuthenticateService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Services\\AuthenticateService.cs",
-              "RelativeToolTip": "Transify\\Services\\AuthenticateService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAowB4AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:00:06.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "BusReservationProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusReservationProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\BusReservationProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusReservationProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\BusReservationProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:15.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "editUser.js",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\authenticate\\editUser.js",
-              "RelativeDocumentMoniker": "Transify\\wwwroot\\js\\authenticate\\editUser.js",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\authenticate\\editUser.js",
-              "RelativeToolTip": "Transify\\wwwroot\\js\\authenticate\\editUser.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-30T00:05:22.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BusSchedules.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Bus\\BusSchedules.cshtml",
-              "RelativeDocumentMoniker": "Transify\\Views\\Bus\\BusSchedules.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Bus\\BusSchedules.cshtml",
-              "RelativeToolTip": "Transify\\Views\\Bus\\BusSchedules.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T23:30:10.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Transify\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Transify\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAJICAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:54.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20250106230425_Update.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\20250106230425_Update.cs",
-              "RelativeDocumentMoniker": "Transify\\Migrations\\20250106230425_Update.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\20250106230425_Update.cs",
-              "RelativeToolTip": "Transify\\Migrations\\20250106230425_Update.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:50.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\UserProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\UserProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\UserProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:41.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "TaxiReservationProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiReservationProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\TaxiReservationProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiReservationProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\TaxiReservationProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:38.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "TaxiProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\TaxiProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\TaxiProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:36.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "TaxiCompanyProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiCompanyProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\TaxiCompanyProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiCompanyProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\TaxiCompanyProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:34.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "TaxiBookingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiBookingProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\TaxiBookingProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiBookingProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\TaxiBookingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:30.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "BusScheduleProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusScheduleProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\BusScheduleProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusScheduleProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\BusScheduleProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:28.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "BusRoutesProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusRoutesProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\BusRoutesProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusRoutesProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\BusRoutesProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:14.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "BusProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\BusProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\BusProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:12.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "BusCompanyProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusCompanyProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\BusCompanyProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusCompanyProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\BusCompanyProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:28:11.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "AdminProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\AdminProfile.cs",
-              "RelativeDocumentMoniker": "Transify\\Mappings\\AdminProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\AdminProfile.cs",
-              "RelativeToolTip": "Transify\\Mappings\\AdminProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:27:39.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ITaxiCompanyService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\ITaxiCompanyService.cs",
-              "RelativeDocumentMoniker": "Transify\\Interfaces\\ITaxiCompanyService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\ITaxiCompanyService.cs",
-              "RelativeToolTip": "Transify\\Interfaces\\ITaxiCompanyService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:27:34.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "IReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IReviewService.cs",
-              "RelativeDocumentMoniker": "Transify\\Interfaces\\IReviewService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IReviewService.cs",
-              "RelativeToolTip": "Transify\\Interfaces\\IReviewService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:27:32.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "IDashboardService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IDashboardService.cs",
-              "RelativeDocumentMoniker": "Transify\\Interfaces\\IDashboardService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IDashboardService.cs",
-              "RelativeToolTip": "Transify\\Interfaces\\IDashboardService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:27:30.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "IBusCompanyService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IBusCompanyService.cs",
-              "RelativeDocumentMoniker": "Transify\\Interfaces\\IBusCompanyService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IBusCompanyService.cs",
-              "RelativeToolTip": "Transify\\Interfaces\\IBusCompanyService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:27:26.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "IAuthenticateService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IAuthenticateService.cs",
-              "RelativeDocumentMoniker": "Transify\\Interfaces\\IAuthenticateService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IAuthenticateService.cs",
-              "RelativeToolTip": "Transify\\Interfaces\\IAuthenticateService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:27:16.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "LoginRequiredFilter.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\LoginRequiredFilter.cs",
-              "RelativeDocumentMoniker": "Transify\\Filters\\LoginRequiredFilter.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\LoginRequiredFilter.cs",
-              "RelativeToolTip": "Transify\\Filters\\LoginRequiredFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:26:59.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "BusinessOnlyFilter.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\BusinessOnlyFilter.cs",
-              "RelativeDocumentMoniker": "Transify\\Filters\\BusinessOnlyFilter.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\BusinessOnlyFilter.cs",
-              "RelativeToolTip": "Transify\\Filters\\BusinessOnlyFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:26:57.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "AdminOnlyFilter.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\AdminOnlyFilter.cs",
-              "RelativeDocumentMoniker": "Transify\\Filters\\AdminOnlyFilter.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\AdminOnlyFilter.cs",
-              "RelativeToolTip": "Transify\\Filters\\AdminOnlyFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:26:56.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "AdminBaseFilter .cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\AdminBaseFilter .cs",
-              "RelativeDocumentMoniker": "Transify\\Filters\\AdminBaseFilter .cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\AdminBaseFilter .cs",
-              "RelativeToolTip": "Transify\\Filters\\AdminBaseFilter .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:26:54.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "Transify\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:25:30.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "TaxiReservationsConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiReservationsConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Configurations\\TaxiReservationsConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiReservationsConfiguration.cs",
-              "RelativeToolTip": "Transify\\Configurations\\TaxiReservationsConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:25:01.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "TaxiCompanyConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiCompanyConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Configurations\\TaxiCompanyConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiCompanyConfiguration.cs",
-              "RelativeToolTip": "Transify\\Configurations\\TaxiCompanyConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:25:00.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "TaxiBookingConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiBookingConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Configurations\\TaxiBookingConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiBookingConfiguration.cs",
-              "RelativeToolTip": "Transify\\Configurations\\TaxiBookingConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:58.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Transify\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Transify\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAABoAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:30.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "BusRoutesConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusRoutesConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Configurations\\BusRoutesConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusRoutesConfiguration.cs",
-              "RelativeToolTip": "Transify\\Configurations\\BusRoutesConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:57.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "BusScheduleConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusScheduleConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Configurations\\BusScheduleConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusScheduleConfiguration.cs",
-              "RelativeToolTip": "Transify\\Configurations\\BusScheduleConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:56.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "BusReservationsConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusReservationsConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Configurations\\BusReservationsConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusReservationsConfiguration.cs",
-              "RelativeToolTip": "Transify\\Configurations\\BusReservationsConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:53.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "BusesConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusesConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Configurations\\BusesConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusesConfiguration.cs",
-              "RelativeToolTip": "Transify\\Configurations\\BusesConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:48.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "BusCompanyConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusCompanyConfiguration.cs",
-              "RelativeDocumentMoniker": "Transify\\Configurations\\BusCompanyConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusCompanyConfiguration.cs",
-              "RelativeToolTip": "Transify\\Configurations\\BusCompanyConfiguration.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:42.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "ReviewsController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\ReviewsController.cs",
-              "RelativeDocumentMoniker": "Transify\\Controllers\\ReviewsController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\ReviewsController.cs",
-              "RelativeToolTip": "Transify\\Controllers\\ReviewsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:24.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Transify\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Transify\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:24:18.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 2,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Transify\\Controllers\\DashboardController.cs",
@@ -1358,7 +560,802 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Transify\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Transify\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:24:18.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Transify\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Transify\\Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:24:24.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adminsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\adminsettings.json",
+              "RelativeDocumentMoniker": "Transify\\adminsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\adminsettings.json",
+              "RelativeToolTip": "Transify\\adminsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T00:19:25.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Program.cs",
+              "RelativeDocumentMoniker": "Transify\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Program.cs",
+              "RelativeToolTip": "Transify\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:02:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaxiBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Taxi\\TaxiBooking.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Taxi\\TaxiBooking.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Taxi\\TaxiBooking.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Taxi\\TaxiBooking.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:59.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Transify\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:31:22.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaxiBookingManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiManagement\\TaxiBookingManagement.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\TaxiManagement\\TaxiBookingManagement.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiManagement\\TaxiBookingManagement.cshtml",
+              "RelativeToolTip": "Transify\\Views\\TaxiManagement\\TaxiBookingManagement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T00:15:11.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaxiReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Taxi\\TaxiReservation.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Taxi\\TaxiReservation.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Taxi\\TaxiReservation.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Taxi\\TaxiReservation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:31:05.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaxiDriver.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiDriver\\TaxiDriver.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\TaxiDriver\\TaxiDriver.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiDriver\\TaxiDriver.cshtml",
+              "RelativeToolTip": "Transify\\Views\\TaxiDriver\\TaxiDriver.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T00:14:08.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Transify\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:31:12.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaxiReservationManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiManagement\\TaxiReservationManagement.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\TaxiManagement\\TaxiReservationManagement.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\TaxiManagement\\TaxiReservationManagement.cshtml",
+              "RelativeToolTip": "Transify\\Views\\TaxiManagement\\TaxiReservationManagement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T00:14:55.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:51.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:54.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:48.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_DashboardLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Shared\\_DashboardLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:46.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubmitReview.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Reviews\\SubmitReview.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Reviews\\SubmitReview.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Reviews\\SubmitReview.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Reviews\\SubmitReview.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:41.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\PrivacyPolicy\\index.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\PrivacyPolicy\\index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\PrivacyPolicy\\index.cshtml",
+              "RelativeToolTip": "Transify\\Views\\PrivacyPolicy\\index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:37.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserActivity.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\UserActivity.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Home\\UserActivity.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\UserActivity.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Home\\UserActivity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:33.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Home\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:28.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Taxi.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Taxi.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Dashboard\\Taxi.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Taxi.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Dashboard\\Taxi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:23.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:18.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bus.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Bus.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Dashboard\\Bus.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Dashboard\\Bus.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Dashboard\\Bus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:14.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BusScheduleManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\BusSchedule\\BusScheduleManagement.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\BusSchedule\\BusScheduleManagement.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\BusSchedule\\BusScheduleManagement.cshtml",
+              "RelativeToolTip": "Transify\\Views\\BusSchedule\\BusScheduleManagement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T00:11:16.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BusReservationManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\BusSchedule\\BusReservationManagement.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\BusSchedule\\BusReservationManagement.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\BusSchedule\\BusReservationManagement.cshtml",
+              "RelativeToolTip": "Transify\\Views\\BusSchedule\\BusReservationManagement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T00:11:13.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Register.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\Register.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Register.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Authenticate\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:29:25.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\UserList.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Authenticate\\UserList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:29:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Login.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Login.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Authenticate\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:29:22.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Edit.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Authenticate\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:29:17.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Authenticate\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Authenticate\\Delete.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Authenticate\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:29:11.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthenticateService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Services\\AuthenticateService.cs",
+              "RelativeDocumentMoniker": "Transify\\Services\\AuthenticateService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Services\\AuthenticateService.cs",
+              "RelativeToolTip": "Transify\\Services\\AuthenticateService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:00:06.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BusReservationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusReservationProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\BusReservationProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusReservationProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\BusReservationProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:15.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "editUser.js",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\authenticate\\editUser.js",
+              "RelativeDocumentMoniker": "Transify\\wwwroot\\js\\authenticate\\editUser.js",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\authenticate\\editUser.js",
+              "RelativeToolTip": "Transify\\wwwroot\\js\\authenticate\\editUser.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-30T00:05:22.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BusSchedules.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Bus\\BusSchedules.cshtml",
+              "RelativeDocumentMoniker": "Transify\\Views\\Bus\\BusSchedules.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Views\\Bus\\BusSchedules.cshtml",
+              "RelativeToolTip": "Transify\\Views\\Bus\\BusSchedules.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T23:30:10.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Transify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Transify\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAJICAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:54.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250106230425_Update.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\20250106230425_Update.cs",
+              "RelativeDocumentMoniker": "Transify\\Migrations\\20250106230425_Update.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Migrations\\20250106230425_Update.cs",
+              "RelativeToolTip": "Transify\\Migrations\\20250106230425_Update.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:50.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\UserProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:41.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TaxiReservationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiReservationProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\TaxiReservationProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiReservationProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\TaxiReservationProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:38.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TaxiProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\TaxiProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\TaxiProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:36.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TaxiCompanyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiCompanyProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\TaxiCompanyProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiCompanyProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\TaxiCompanyProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TaxiBookingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiBookingProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\TaxiBookingProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\TaxiBookingProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\TaxiBookingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:30.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BusScheduleProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusScheduleProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\BusScheduleProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusScheduleProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\BusScheduleProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:28.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BusRoutesProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusRoutesProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\BusRoutesProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusRoutesProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\BusRoutesProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:14.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BusProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\BusProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\BusProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:12.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BusCompanyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusCompanyProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\BusCompanyProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\BusCompanyProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\BusCompanyProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:28:11.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\AdminProfile.cs",
+              "RelativeDocumentMoniker": "Transify\\Mappings\\AdminProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Mappings\\AdminProfile.cs",
+              "RelativeToolTip": "Transify\\Mappings\\AdminProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:27:39.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ITaxiCompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\ITaxiCompanyService.cs",
+              "RelativeDocumentMoniker": "Transify\\Interfaces\\ITaxiCompanyService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\ITaxiCompanyService.cs",
+              "RelativeToolTip": "Transify\\Interfaces\\ITaxiCompanyService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:27:34.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IReviewService.cs",
+              "RelativeDocumentMoniker": "Transify\\Interfaces\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IReviewService.cs",
+              "RelativeToolTip": "Transify\\Interfaces\\IReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:27:32.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "Transify\\Interfaces\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IDashboardService.cs",
+              "RelativeToolTip": "Transify\\Interfaces\\IDashboardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:27:30.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IBusCompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IBusCompanyService.cs",
+              "RelativeDocumentMoniker": "Transify\\Interfaces\\IBusCompanyService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IBusCompanyService.cs",
+              "RelativeToolTip": "Transify\\Interfaces\\IBusCompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:27:26.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IAuthenticateService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IAuthenticateService.cs",
+              "RelativeDocumentMoniker": "Transify\\Interfaces\\IAuthenticateService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Interfaces\\IAuthenticateService.cs",
+              "RelativeToolTip": "Transify\\Interfaces\\IAuthenticateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:27:16.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LoginRequiredFilter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\LoginRequiredFilter.cs",
+              "RelativeDocumentMoniker": "Transify\\Filters\\LoginRequiredFilter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\LoginRequiredFilter.cs",
+              "RelativeToolTip": "Transify\\Filters\\LoginRequiredFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:26:59.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BusinessOnlyFilter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\BusinessOnlyFilter.cs",
+              "RelativeDocumentMoniker": "Transify\\Filters\\BusinessOnlyFilter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\BusinessOnlyFilter.cs",
+              "RelativeToolTip": "Transify\\Filters\\BusinessOnlyFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:26:57.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AdminOnlyFilter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\AdminOnlyFilter.cs",
+              "RelativeDocumentMoniker": "Transify\\Filters\\AdminOnlyFilter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\AdminOnlyFilter.cs",
+              "RelativeToolTip": "Transify\\Filters\\AdminOnlyFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:26:56.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AdminBaseFilter .cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\AdminBaseFilter .cs",
+              "RelativeDocumentMoniker": "Transify\\Filters\\AdminBaseFilter .cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Filters\\AdminBaseFilter .cs",
+              "RelativeToolTip": "Transify\\Filters\\AdminBaseFilter .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:26:54.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Transify\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:25:30.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "TaxiReservationsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiReservationsConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Configurations\\TaxiReservationsConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiReservationsConfiguration.cs",
+              "RelativeToolTip": "Transify\\Configurations\\TaxiReservationsConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:25:01.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "TaxiCompanyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiCompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Configurations\\TaxiCompanyConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiCompanyConfiguration.cs",
+              "RelativeToolTip": "Transify\\Configurations\\TaxiCompanyConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:25:00.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "TaxiBookingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiBookingConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Configurations\\TaxiBookingConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiBookingConfiguration.cs",
+              "RelativeToolTip": "Transify\\Configurations\\TaxiBookingConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:24:58.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Transify\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Transify\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAABoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:24:30.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "BusRoutesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusRoutesConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Configurations\\BusRoutesConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusRoutesConfiguration.cs",
+              "RelativeToolTip": "Transify\\Configurations\\BusRoutesConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:24:57.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "BusScheduleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusScheduleConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Configurations\\BusScheduleConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusScheduleConfiguration.cs",
+              "RelativeToolTip": "Transify\\Configurations\\BusScheduleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:24:56.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "BusReservationsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusReservationsConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Configurations\\BusReservationsConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusReservationsConfiguration.cs",
+              "RelativeToolTip": "Transify\\Configurations\\BusReservationsConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:24:53.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "BusesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusesConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Configurations\\BusesConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusesConfiguration.cs",
+              "RelativeToolTip": "Transify\\Configurations\\BusesConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:24:48.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "BusCompanyConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusCompanyConfiguration.cs",
+              "RelativeDocumentMoniker": "Transify\\Configurations\\BusCompanyConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusCompanyConfiguration.cs",
+              "RelativeToolTip": "Transify\\Configurations\\BusCompanyConfiguration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:24:42.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
               "Title": "AuthenticateController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\AuthenticateController.cs",
               "RelativeDocumentMoniker": "Transify\\Controllers\\AuthenticateController.cs",
@@ -1366,12 +1363,11 @@
               "RelativeToolTip": "Transify\\Controllers\\AuthenticateController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:23:20.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T23:23:20.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 61,
               "Title": "AdminSetupService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Services\\AdminSetupService.cs",
               "RelativeDocumentMoniker": "Transify\\Services\\AdminSetupService.cs",
@@ -1379,12 +1375,11 @@
               "RelativeToolTip": "Transify\\Services\\AdminSetupService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:00:24.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T23:00:24.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 62,
               "Title": "ReviewService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Services\\ReviewService.cs",
               "RelativeDocumentMoniker": "Transify\\Services\\ReviewService.cs",
@@ -1392,12 +1387,11 @@
               "RelativeToolTip": "Transify\\Services\\ReviewService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:56.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:56.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 63,
               "Title": "UpdateTaxiReservationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\UpdateTaxiReservationViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\UpdateTaxiReservationViewModel.cs",
@@ -1405,12 +1399,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\UpdateTaxiReservationViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:27.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:27.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 64,
               "Title": "TaxiReservationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\TaxiReservationViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\TaxiReservationViewModel.cs",
@@ -1418,12 +1411,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\TaxiReservationViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:23.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:23.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 65,
               "Title": "TaxiReservationRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\TaxiReservationRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\TaxiReservationRequest.cs",
@@ -1431,12 +1423,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\TaxiReservationRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:19.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:19.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 66,
               "Title": "TaxiRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\TaxiRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\TaxiRequest.cs",
@@ -1444,12 +1435,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\TaxiRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:17.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:17.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 67,
               "Title": "TaxiCompanyRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\TaxiCompanyRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\TaxiCompanyRequest.cs",
@@ -1457,12 +1447,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\TaxiCompanyRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:15.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:15.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 68,
               "Title": "TaxiBookingViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\TaxiBookingViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\TaxiBookingViewModel.cs",
@@ -1470,12 +1459,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\TaxiBookingViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:13.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:13.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 69,
               "Title": "TaxiBookingRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\TaxiBookingRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\TaxiBookingRequest.cs",
@@ -1483,12 +1471,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\TaxiBookingRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:10.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:10.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 70,
               "Title": "RegisterDriverRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\RegisterDriverRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\RegisterDriverRequest.cs",
@@ -1496,12 +1483,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\RegisterDriverRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:06.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:06.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 71,
               "Title": "ManageTaxiCompanyRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\ManageTaxiCompanyRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\ManageTaxiCompanyRequest.cs",
@@ -1509,12 +1495,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\ManageTaxiCompanyRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:03.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:03.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 72,
               "Title": "EditTaxiRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\EditTaxiRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\EditTaxiRequest.cs",
@@ -1522,12 +1507,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\EditTaxiRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:59:00.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:59:00.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 73,
               "Title": "EditTaxiBookingViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\EditTaxiBookingViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\EditTaxiBookingViewModel.cs",
@@ -1535,12 +1519,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\EditTaxiBookingViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:49.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:49.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 74,
               "Title": "EditDriverRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\EditDriverRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\EditDriverRequest.cs",
@@ -1548,12 +1531,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\EditDriverRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:47.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:47.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 75,
               "Title": "DriverRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\DriverRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\DriverRequest.cs",
@@ -1561,12 +1543,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\DriverRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:44.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:44.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 76,
               "Title": "CreateBookingViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\CreateBookingViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\CreateBookingViewModel.cs",
@@ -1574,12 +1555,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\CreateBookingViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:40.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:40.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 77,
               "Title": "AddTaxiRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\AddTaxiRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\AddTaxiRequest.cs",
@@ -1587,12 +1567,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\AddTaxiRequest.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:34.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:34.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 78,
               "Title": "AddTaxiDriverRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\AddTaxiDriverRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\AddTaxiDriverRequest.cs",
@@ -1600,12 +1579,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\AddTaxiDriverRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:32.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:32.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 79,
               "Title": "AddTaxiCompanyRequest.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiRequest\\AddTaxiCompanyRequest.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiRequest\\AddTaxiCompanyRequest.cs",
@@ -1613,12 +1591,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiRequest\\AddTaxiCompanyRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:28.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:28.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 80,
               "Title": "TaxiViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiModels\\TaxiViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiModels\\TaxiViewModel.cs",
@@ -1626,12 +1603,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiModels\\TaxiViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:19.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:19.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 81,
               "Title": "TaxiCompanyViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiModels\\TaxiCompanyViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiModels\\TaxiCompanyViewModel.cs",
@@ -1639,12 +1615,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiModels\\TaxiCompanyViewModel.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:14.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:14.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 82,
               "Title": "ManageTaxiCompanyViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiModels\\ManageTaxiCompanyViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiModels\\ManageTaxiCompanyViewModel.cs",
@@ -1652,12 +1627,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiModels\\ManageTaxiCompanyViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:11.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:11.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 83,
               "Title": "EditTaxiViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiModels\\EditTaxiViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiModels\\EditTaxiViewModel.cs",
@@ -1665,12 +1639,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiModels\\EditTaxiViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:58:01.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:58:01.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 84,
               "Title": "DriverViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiModels\\DriverViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiModels\\DriverViewModel.cs",
@@ -1678,12 +1651,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiModels\\DriverViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:57:58.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:57:58.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 85,
               "Title": "AddTaxiViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiModels\\AddTaxiViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiModels\\AddTaxiViewModel.cs",
@@ -1691,12 +1663,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiModels\\AddTaxiViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:57:54.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:57:54.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 86,
               "Title": "AddTaxiDriverViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiModels\\AddTaxiDriverViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiModels\\AddTaxiDriverViewModel.cs",
@@ -1704,12 +1675,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiModels\\AddTaxiDriverViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:57:51.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:57:51.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 87,
               "Title": "AddTaxiCompanyViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\TaxiModels\\AddTaxiCompanyViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\TaxiModels\\AddTaxiCompanyViewModel.cs",
@@ -1717,12 +1687,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\TaxiModels\\AddTaxiCompanyViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:57:46.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:57:46.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 88,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Dashboard\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Dashboard\\DashboardViewModel.cs",
@@ -1730,12 +1699,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Dashboard\\DashboardViewModel.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:57:39.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:57:39.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 89,
               "Title": "SearchScheduleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\BusSchedul\\SearchScheduleViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\BusSchedul\\SearchScheduleViewModel.cs",
@@ -1743,12 +1711,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\BusSchedul\\SearchScheduleViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:57:32.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:57:32.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 90,
               "Title": "EditScheduleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\BusSchedul\\EditScheduleViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\BusSchedul\\EditScheduleViewModel.cs",
@@ -1756,12 +1723,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\BusSchedul\\EditScheduleViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:57:18.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:57:18.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 91,
               "Title": "AddScheduleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\BusSchedul\\AddScheduleViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\BusSchedul\\AddScheduleViewModel.cs",
@@ -1769,12 +1735,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\BusSchedul\\AddScheduleViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:57:09.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:57:09.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 92,
               "Title": "AddRouteViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\BusSchedul\\AddRouteViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\BusSchedul\\AddRouteViewModel.cs",
@@ -1782,12 +1747,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\BusSchedul\\AddRouteViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:56.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:56.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 93,
               "Title": "MyBusReservationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\BusReservation\\MyBusReservationViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\BusReservation\\MyBusReservationViewModel.cs",
@@ -1795,12 +1759,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\BusReservation\\MyBusReservationViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:44.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:44.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 94,
               "Title": "EditReservationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\BusReservation\\EditReservationViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\BusReservation\\EditReservationViewModel.cs",
@@ -1808,12 +1771,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\BusReservation\\EditReservationViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:39.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:39.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 95,
               "Title": "AddBusReservationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\BusReservation\\AddBusReservationViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\BusReservation\\AddBusReservationViewModel.cs",
@@ -1821,12 +1783,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\BusReservation\\AddBusReservationViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:31.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:31.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 96,
               "Title": "ManageBusCompanyViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Bus\\ManageBusCompanyViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Bus\\ManageBusCompanyViewModel.cs",
@@ -1834,12 +1795,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Bus\\ManageBusCompanyViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:28.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:28.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 97,
               "Title": "EditBusViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Bus\\EditBusViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Bus\\EditBusViewModel.cs",
@@ -1847,12 +1807,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Bus\\EditBusViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:24.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:24.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 98,
               "Title": "BusViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Bus\\BusViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Bus\\BusViewModel.cs",
@@ -1860,12 +1819,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Bus\\BusViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:21.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:21.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 99,
               "Title": "BusCompanyViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Bus\\BusCompanyViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Bus\\BusCompanyViewModel.cs",
@@ -1873,12 +1831,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Bus\\BusCompanyViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:17.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:17.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 100,
               "Title": "AddBusViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Bus\\AddBusViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Bus\\AddBusViewModel.cs",
@@ -1886,12 +1843,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Bus\\AddBusViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:12.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:12.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 101,
               "Title": "AddBusCompanyViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Bus\\AddBusCompanyViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Bus\\AddBusCompanyViewModel.cs",
@@ -1899,12 +1855,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Bus\\AddBusCompanyViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:56:03.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:56:03.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 103,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Authenticate\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Authenticate\\RegisterViewModel.cs",
@@ -1912,12 +1867,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Authenticate\\RegisterViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:55:31.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:55:31.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 105,
               "Title": "RegisterDriverViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Authenticate\\RegisterDriverViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Authenticate\\RegisterDriverViewModel.cs",
@@ -1925,12 +1879,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Authenticate\\RegisterDriverViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:55:09.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:55:09.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 104,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Authenticate\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Authenticate\\LoginViewModel.cs",
@@ -1938,12 +1891,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Authenticate\\LoginViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:54:48.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:54:48.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 106,
               "Title": "EditUserViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Authenticate\\EditUserViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Authenticate\\EditUserViewModel.cs",
@@ -1951,12 +1903,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Authenticate\\EditUserViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:54:07.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:54:07.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 102,
               "Title": "EditDriverViewModel.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\ViewModel\\Authenticate\\EditDriverViewModel.cs",
               "RelativeDocumentMoniker": "Transify\\ViewModel\\Authenticate\\EditDriverViewModel.cs",
@@ -1964,12 +1915,11 @@
               "RelativeToolTip": "Transify\\ViewModel\\Authenticate\\EditDriverViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T22:53:52.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T22:53:52.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 107,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Transify\\Properties\\launchSettings.json",
@@ -1977,8 +1927,7 @@
               "RelativeToolTip": "Transify\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-19T20:14:39.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T20:14:39.238Z"
             }
           ]
         }

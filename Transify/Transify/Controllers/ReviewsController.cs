@@ -41,7 +41,7 @@ namespace Transify.Controllers
                     return RedirectToAction("Index", "Home");
             }
 
-            return View("~/Presentation/Views/Home/Index.cshtml", review);
+            return View("~/Views/Home/Index.cshtml", review);
         }
 
         [HttpGet]

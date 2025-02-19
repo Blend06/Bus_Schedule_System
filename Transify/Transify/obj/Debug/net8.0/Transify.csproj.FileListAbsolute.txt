@@ -677,3 +677,4 @@ C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify
 C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\Transify.pdb
 C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\Transify.genruntimeconfig.cache
 C:\Users\admin\Desktop\Bus_Schedule_System\Bus_Schedule_System\Transify\Transify\obj\Debug\net8.0\ref\Transify.dll
+C:\Users\LENOVO\Desktop\Bus_Schedule_System\Transify\Transify\bin\Debug\net8.0\adminsettings.json

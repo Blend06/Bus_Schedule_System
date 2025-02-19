@@ -1,17 +1,17 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using RidePlanner.Data;
-using RidePlanner.Interfaces;
-using RidePlanner.Models.Entities;
-using RidePlanner.Models.Enums;
-using RidePlanner.Models.Utilities;
-using RidePlanner.ViewModel.Bus;
-using RidePlanner.Filters;
+using Transify.Data;
+using Transify.Interfaces;
+using Transify.Models.Entities;
+using Transify.Models.Enums;
+using Transify.Models.Utilities;
+using Transify.ViewModel.Bus;
+using Transify.Filters;
 
 
 
-namespace RidePlanner.Controllers
+namespace Transify.Controllers
 {
     [Route("Admin/BusCompany")]
     [ServiceFilter(typeof(AdminOnlyFilter))]

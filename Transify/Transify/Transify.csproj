@@ -65,6 +65,7 @@
     <None Include="wwwroot\img\small-logos\logo-xd.svg" />
     <None Include="wwwroot\img\transport.png" />
     <None Include="wwwroot\js\authenticate\editUser.js" />
+    <None Include="wwwroot\js\busCompany\addCompany.js" />
     <None Include="wwwroot\js\core\bootstrap.min.js" />
     <None Include="wwwroot\js\core\popper.min.js" />
     <None Include="wwwroot\js\plugins\bootstrap-notify.js" />

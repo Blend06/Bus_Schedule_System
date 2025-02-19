@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Transify"
+    "\\Transify",
+    "\\Transify\\Transify",
+    "\\Transify\\Transify\\Controllers"
   ],
-  "SelectedNode": "\\Transify\\Transify.sln",
+  "SelectedNode": "\\Transify\\Transify\\Controllers\\UserActivityController.cs",
   "PreviewInSolutionExplorer": false
 }

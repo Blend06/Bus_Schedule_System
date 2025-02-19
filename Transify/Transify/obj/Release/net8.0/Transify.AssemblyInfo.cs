@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Transify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b09f820f2002502c131c11674fa10a2347f8955")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+392f31b5729d369f23ff34897a258af6d02e534a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Transify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Transify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

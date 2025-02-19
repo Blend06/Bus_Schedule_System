@@ -3,8 +3,11 @@
     "",
     "\\Transify",
     "\\Transify\\Transify",
-    "\\Transify\\Transify\\Controllers"
+    "\\Transify\\Transify\\Controllers",
+    "\\Transify\\Transify\\wwwroot",
+    "\\Transify\\Transify\\wwwroot\\js",
+    "\\Transify\\Transify\\wwwroot\\js\\busSchedule"
   ],
-  "SelectedNode": "\\Transify\\Transify\\Controllers\\UserActivityController.cs",
+  "SelectedNode": "\\Transify\\Transify\\wwwroot\\js\\busSchedule",
   "PreviewInSolutionExplorer": false
 }

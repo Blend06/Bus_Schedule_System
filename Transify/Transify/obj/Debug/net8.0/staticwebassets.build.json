@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nucFHiWH7mauDDbv3ZYOjD8xjRcImtfs36gWErUy/l4=",
+  "Hash": "kNnS3NjEkzs8k8Qj7fUp3wl8hR7Bye0gLlEOsFjDXco=",
   "Source": "Transify",
   "BasePath": "_content/Transify",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Transify\\wwwroot",
       "Source": "Transify",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Transify.styles.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Transify.styles.css",
       "SourceId": "Transify",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Transify",
       "RelativePath": "Transify.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Transify.styles.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Transify.styles.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Transify.bundle.scp.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Transify.bundle.scp.css",
       "SourceId": "Transify",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Transify",
       "RelativePath": "Transify.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Transify.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Transify.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\nucleo-icons.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\nucleo-icons.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "css/nucleo-icons.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nucleo-icons.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\nucleo-svg.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\nucleo-svg.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "css/nucleo-svg.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nucleo-svg.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\site.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\soft-ui-dashboard.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\soft-ui-dashboard.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "css/soft-ui-dashboard.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\soft-ui-dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\soft-ui-dashboard.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\soft-ui-dashboard.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "css/soft-ui-dashboard.css.map",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\soft-ui-dashboard.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\soft-ui-dashboard.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\soft-ui-dashboard.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "css/soft-ui-dashboard.min.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\soft-ui-dashboard.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\css\\style.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\favicon.ico",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved0.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved0.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/curved-images/curved0.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\curved-images\\curved0.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved1.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved1.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/curved-images/curved1.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\curved-images\\curved1.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved14.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved14.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/curved-images/curved14.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\curved-images\\curved14.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved6.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved6.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/curved-images/curved6.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\curved-images\\curved6.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved8.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\curved8.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/curved-images/curved8.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\curved-images\\curved8.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\white-curved.jpeg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\curved-images\\white-curved.jpeg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/curved-images/white-curved.jpeg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\curved-images\\white-curved.jpeg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\driver.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\driver.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/driver.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\driver.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\favicon.png",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\favicon.png",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/favicon.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\illustrations\\rocket-white.png",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\illustrations\\rocket-white.png",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/illustrations/rocket-white.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\illustrations\\rocket-white.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\ivana-square.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\ivana-square.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/ivana-square.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ivana-square.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\ivancik.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\ivancik.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/ivancik.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ivancik.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\kal-visuals-square.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\kal-visuals-square.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/kal-visuals-square.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\kal-visuals-square.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\koreangirl.jpg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\koreangirl.jpg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/koreangirl.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\koreangirl.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\logo-ct.png",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\logo-ct.png",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/logo-ct.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo-ct.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\logos\\mastercard.png",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\logos\\mastercard.png",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/logos/mastercard.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logos\\mastercard.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\logos\\visa.png",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\logos\\visa.png",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/logos/visa.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logos\\visa.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\shapes\\waves-white.svg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\shapes\\waves-white.svg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/shapes/waves-white.svg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shapes\\waves-white.svg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/small-logos/icon-sun-cloud.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-atlassian.svg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-atlassian.svg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/small-logos/logo-atlassian.svg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\small-logos\\logo-atlassian.svg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-invision.svg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-invision.svg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/small-logos/logo-invision.svg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\small-logos\\logo-invision.svg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-jira.svg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-jira.svg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/small-logos/logo-jira.svg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\small-logos\\logo-jira.svg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-slack.svg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-slack.svg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/small-logos/logo-slack.svg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\small-logos\\logo-slack.svg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-spotify.svg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-spotify.svg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/small-logos/logo-spotify.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\small-logos\\logo-spotify.svg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-webdev.svg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-webdev.svg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/small-logos/logo-webdev.svg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\small-logos\\logo-webdev.svg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-xd.svg",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\small-logos\\logo-xd.svg",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/small-logos/logo-xd.svg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\small-logos\\logo-xd.svg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\transport.png",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\img\\transport.png",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "img/transport.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\transport.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\authenticate\\editUser.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\authenticate\\editUser.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/authenticate/editUser.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\js\\authenticate\\editUser.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\core\\bootstrap.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\core\\bootstrap.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/core/bootstrap.min.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\js\\core\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\core\\popper.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\core\\popper.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/core/popper.min.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\js\\core\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\bootstrap-notify.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/plugins/bootstrap-notify.js",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\bootstrap-notify.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\Chart.extension.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\Chart.extension.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/plugins/Chart.extension.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\Chart.extension.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\chartjs.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/plugins/chartjs.min.js",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\choices.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\choices.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/plugins/choices.min.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\choices.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\fullcalendar.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\fullcalendar.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/plugins/fullcalendar.min.js",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\fullcalendar.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/plugins/perfect-scrollbar.min.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\perfect-scrollbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/plugins/smooth-scrollbar.min.js",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins\\smooth-scrollbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\site.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\soft-ui-dashboard.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\soft-ui-dashboard.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/soft-ui-dashboard.js",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\js\\soft-ui-dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\soft-ui-dashboard.js.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\soft-ui-dashboard.js.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/soft-ui-dashboard.js.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\js\\soft-ui-dashboard.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\soft-ui-dashboard.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\soft-ui-dashboard.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "js/soft-ui-dashboard.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\js\\soft-ui-dashboard.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\counterup\\counterup.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/counterup/counterup.min.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\counterup\\counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\wow\\wow.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\wow\\wow.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/wow/wow.js",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\wow\\wow.min.js",
+      "Identity": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\lib\\wow\\wow.min.js",
       "SourceId": "Transify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Bus_Schedule_System\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\",
       "BasePath": "_content/Transify",
       "RelativePath": "lib/wow/wow.min.js",
       "AssetKind": "All",

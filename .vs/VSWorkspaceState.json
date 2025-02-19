@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Transify",
+    "\\Transify\\Transify",
+    "\\Transify\\Transify\\Controllers",
+    "\\Transify\\Transify\\Data",
+    "\\Transify\\Transify\\Models",
+    "\\Transify\\Transify\\Services",
+    "\\Transify\\Transify\\wwwroot",
+    "\\Transify\\Transify\\wwwroot\\js"
   ],
-  "SelectedNode": "\\Transify.sln",
+  "SelectedNode": "\\Transify\\Transify\\Models\\DTOs",
   "PreviewInSolutionExplorer": false
 }

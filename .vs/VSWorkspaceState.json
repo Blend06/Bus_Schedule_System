@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Transify",
-    "\\Transify\\Transify",
-    "\\Transify\\Transify\\Controllers",
-    "\\Transify\\Transify\\wwwroot",
-    "\\Transify\\Transify\\wwwroot\\js",
-    "\\Transify\\Transify\\wwwroot\\js\\busScheduleSearch"
+    ""
   ],
-  "SelectedNode": "\\Transify\\Transify\\wwwroot\\js\\busScheduleSearch\\busSchedule.js",
+  "SelectedNode": "\\Transify.sln",
   "PreviewInSolutionExplorer": false
 }

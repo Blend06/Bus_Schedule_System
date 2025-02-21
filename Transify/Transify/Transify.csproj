@@ -79,6 +79,7 @@
     <None Include="wwwroot\js\soft-ui-dashboard.js" />
     <None Include="wwwroot\js\soft-ui-dashboard.js.map" />
     <None Include="wwwroot\js\soft-ui-dashboard.min.js" />
+    <None Include="wwwroot\js\userList\userManagement.js" />
     <None Include="wwwroot\lib\animate\animate.css" />
     <None Include="wwwroot\lib\animate\animate.min.css" />
     <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css" />

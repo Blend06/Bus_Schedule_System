@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\taxicompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\taxicompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|c:\\users\\lenovo\\desktop\\bus_schedule_system\\transify\\transify\\controllers\\busreservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DB6350B-BDF3-421B-9D5A-76CC0FCFDE73}|Transify\\Transify.csproj|solutionrelative:transify\\controllers\\busreservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -105,6 +109,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TaxiCompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\TaxiCompanyController.cs",
+              "RelativeDocumentMoniker": "Transify\\Controllers\\TaxiCompanyController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\TaxiCompanyController.cs",
+              "RelativeToolTip": "Transify\\Controllers\\TaxiCompanyController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:27:57.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BusReservationController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\BusReservationController.cs",
               "RelativeDocumentMoniker": "Transify\\Controllers\\BusReservationController.cs",
@@ -117,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "addCompany.js",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\wwwroot\\js\\busCompany\\addCompany.js",
               "RelativeDocumentMoniker": "Transify\\wwwroot\\js\\busCompany\\addCompany.js",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AdminSetupService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Services\\AdminSetupService.cs",
               "RelativeDocumentMoniker": "Transify\\Services\\AdminSetupService.cs",
@@ -141,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SearchBusScheduleController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Controllers\\SearchBusScheduleController.cs",
               "RelativeDocumentMoniker": "Transify\\Controllers\\SearchBusScheduleController.cs",
@@ -153,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AdminUserDto.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Models\\DTOs\\AdminUserDto.cs",
               "RelativeDocumentMoniker": "Transify\\Models\\DTOs\\AdminUserDto.cs",
@@ -165,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "adminsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\adminsettings.json",
               "RelativeDocumentMoniker": "Transify\\adminsettings.json",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Transify.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Transify.csproj",
               "RelativeDocumentMoniker": "Transify\\Transify.csproj",
@@ -189,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Configurations\\UserConfiguration.cs",
@@ -200,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TaxiReservationsConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiReservationsConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Configurations\\TaxiReservationsConfiguration.cs",
@@ -211,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TaxiCompanyConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiCompanyConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Configurations\\TaxiCompanyConfiguration.cs",
@@ -222,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TaxiBookingConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\TaxiBookingConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Configurations\\TaxiBookingConfiguration.cs",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BusRoutesConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusRoutesConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Configurations\\BusRoutesConfiguration.cs",
@@ -244,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BusScheduleConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusScheduleConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Configurations\\BusScheduleConfiguration.cs",
@@ -255,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BusReservationsConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusReservationsConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Configurations\\BusReservationsConfiguration.cs",
@@ -266,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BusesConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusesConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Configurations\\BusesConfiguration.cs",
@@ -277,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BusCompanyConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Bus_Schedule_System\\Transify\\Transify\\Configurations\\BusCompanyConfiguration.cs",
               "RelativeDocumentMoniker": "Transify\\Configurations\\BusCompanyConfiguration.cs",

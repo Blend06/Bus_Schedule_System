@@ -8,6 +8,6 @@
     "\\Transify\\Transify\\wwwroot\\js",
     "\\Transify\\Transify\\wwwroot\\js\\busScheduleSearch"
   ],
-  "SelectedNode": "\\Transify\\Transify\\Controllers\\TaxiManagmentController.cs",
+  "SelectedNode": "\\Transify\\Transify\\Controllers\\TaxiReservationController.cs",
   "PreviewInSolutionExplorer": false
 }

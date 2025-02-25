@@ -79,6 +79,8 @@
     <None Include="wwwroot\js\soft-ui-dashboard.js" />
     <None Include="wwwroot\js\soft-ui-dashboard.js.map" />
     <None Include="wwwroot\js\soft-ui-dashboard.min.js" />
+    <None Include="wwwroot\js\taxiBooking\taxiBooking.js" />
+    <None Include="wwwroot\js\taxiReservation\taxiReservation.js" />
     <None Include="wwwroot\js\userList\userManagement.js" />
     <None Include="wwwroot\lib\animate\animate.css" />
     <None Include="wwwroot\lib\animate\animate.min.css" />

@@ -68,6 +68,7 @@
     <None Include="wwwroot\js\busCompany\addCompany.js" />
     <None Include="wwwroot\js\core\bootstrap.min.js" />
     <None Include="wwwroot\js\core\popper.min.js" />
+    <None Include="wwwroot\js\driverDashboard\driverDashboard.js" />
     <None Include="wwwroot\js\plugins\bootstrap-notify.js" />
     <None Include="wwwroot\js\plugins\Chart.extension.js" />
     <None Include="wwwroot\js\plugins\chartjs.min.js" />

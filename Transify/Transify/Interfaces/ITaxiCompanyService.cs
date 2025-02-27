@@ -3,7 +3,7 @@ using Transify.Models.Entities;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Transify.Services
+namespace Transify.Interfaces
 {
     /// <summary>
     /// Provides functionality for managing taxi companies in the application.

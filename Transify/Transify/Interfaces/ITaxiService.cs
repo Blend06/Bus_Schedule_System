@@ -2,7 +2,7 @@
 using Transify.Models.TaxiRequest;
 //using Transify.Models.TaxiRequest;
 
-namespace Transify.Services
+namespace Transify.Interfaces
 {
     /// <summary>
     /// Provides functionality for managing taxis in the application.

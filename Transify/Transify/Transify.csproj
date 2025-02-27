@@ -9,16 +9,27 @@
 	<ItemGroup>
 	  <Compile Remove="Application\DTOs\**" />
 	  <Compile Remove="Infrastructure\**" />
+	  <Compile Remove="Presentation\**" />
 	  <Content Remove="Application\DTOs\**" />
 	  <Content Remove="Infrastructure\**" />
+	  <Content Remove="Presentation\**" />
 	  <EmbeddedResource Remove="Application\DTOs\**" />
 	  <EmbeddedResource Remove="Infrastructure\**" />
+	  <EmbeddedResource Remove="Presentation\**" />
 	  <None Remove="Application\DTOs\**" />
 	  <None Remove="Infrastructure\**" />
+	  <None Remove="Presentation\**" />
 	</ItemGroup>
 
 	<ItemGroup>
-    <Folder Include="Presentation\" />
+	  <_WebToolingArtifacts Remove="properties\launchSettings.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="properties\launchSettings.json" />
+	</ItemGroup>
+
+	<ItemGroup>
     <Folder Include="Properties\" />
   </ItemGroup>
 
@@ -81,6 +92,7 @@
     <None Include="wwwroot\js\soft-ui-dashboard.js.map" />
     <None Include="wwwroot\js\soft-ui-dashboard.min.js" />
     <None Include="wwwroot\js\taxiBooking\taxiBooking.js" />
+    <None Include="wwwroot\js\taxiCompany\addCompany.js" />
     <None Include="wwwroot\js\taxiDashboard\taxiBookings.js" />
     <None Include="wwwroot\js\taxiDashboard\taxiReservation.js" />
     <None Include="wwwroot\js\taxiReservation\taxiReservation.js" />

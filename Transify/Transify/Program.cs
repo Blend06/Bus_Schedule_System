@@ -24,10 +24,19 @@ namespace Transify
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddAutoMapper(typeof(AdminProfile));
-
-
+            builder.Services.AddScoped<ITaxiCompanyService, TaxiCompanyService>();
+            builder.Services.AddScoped<ITaxiService, TaxiService>();
+            builder.Services.AddScoped<ITaxiReservationService, TaxiReservationService>();
+            builder.Services.AddScoped<ITaxiBookingService, TaxiBookingService>();
+            builder.Services.AddScoped<IDriverService, DriverService>();
+            builder.Services.AddScoped<IBusCompanyService, BusCompanyService>();
+            builder.Services.AddScoped<IBusService, BusService>();
+            builder.Services.AddScoped<IBusScheduleService, BusScheduleService>();
             builder.Services.AddScoped<IAuthenticateService, AuthenticateService>();
-;
+            builder.Services.AddScoped<IBusReservationService, BusReservationService>();
+            builder.Services.AddScoped<ISearchBusScheduleService, SearchBusScheduleService>();
+            builder.Services.AddScoped<IDashboardService, DashboardService>();
+            builder.Services.AddScoped<IDriverDashboardService, DriverDashboardService>();
 
             builder.Services.AddScoped<IReviewService, ReviewService>();
             builder.Services.AddDbContext<AppDbContext>(options =>

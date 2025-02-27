@@ -4,6 +4,7 @@ using Transify.Models.Enums;
 using Transify.Filters;
 using Transify.Data;
 using Transify.Services;
+using Transify.Interfaces;
 using Transify.Models.TaxiRequest;
 using Transify.Models.Utilities;
 using System.ComponentModel.Design;
